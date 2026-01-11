@@ -1,0 +1,404 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          -1.4799452,
+          12.3383355
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-03-05T16:36:13Z",
+        "google_maps_url": "http://maps.google.com/?cid=17927119849269608430",
+        "location": {
+          "address": "8GQC+823, Karpala, Ouagadougou, Burkina Faso",
+          "country_code": "BF",
+          "name": "Fast Food Saga"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.4890283,
+          12.3499050
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-03-05T16:36:08Z",
+        "google_maps_url": "http://maps.google.com/?cid=887099506044622052",
+        "location": {
+          "address": "Bp 9801 Ouaga 01, Ouagadougou, Burkina Faso",
+          "country_code": "BF",
+          "name": "Marwan FOOD Restaurant"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.4917919,
+          12.3524584
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-03-05T16:36:00Z",
+        "google_maps_url": "http://maps.google.com/?cid=1588222199281174632",
+        "location": {
+          "address": "A la ZAD derrière siège NESTLÉ, Sanyiri, Ouagadougou, Burkina Faso",
+          "country_code": "BF",
+          "name": "Antonella resto-bar"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.4902627,
+          12.3474201
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-03-05T16:35:55Z",
+        "google_maps_url": "http://maps.google.com/?cid=5760365243115648634",
+        "location": {
+          "address": "8GW5+XV9, Sanyiri, Ouagadougou, Burkina Faso",
+          "country_code": "BF",
+          "name": "Restaurant CARREFOUR DU SIAO"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.4858194,
+          12.3537053
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-03-05T16:35:49Z",
+        "google_maps_url": "http://maps.google.com/?cid=16924144611786440839",
+        "location": {
+          "address": "rue 29.115, Sanyiri, Ouagadougou, Burkina Faso",
+          "country_code": "BF",
+          "name": "Restaurant Chez Christian"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.4785137,
+          12.3500195
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-03-05T16:35:43Z",
+        "google_maps_url": "http://maps.google.com/?cid=17041318292277166999",
+        "location": {
+          "address": "8GXC+V9Q, rue 29.296, Zone I, Ouagadougou, Burkina Faso",
+          "country_code": "BF",
+          "name": "Restaurant EMCY"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.4905832,
+          12.3540624
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-03-05T16:35:36Z",
+        "google_maps_url": "http://maps.google.com/?cid=8583584108304350371",
+        "location": {
+          "address": "9G35+JQF, Sanyiri, Ouagadougou, Burkina Faso",
+          "country_code": "BF",
+          "name": "MAQUIS LE PAVILLON"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.4881620,
+          12.3446360
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-03-05T16:35:32Z",
+        "google_maps_url": "http://maps.google.com/?cid=2135810954805506861",
+        "location": {
+          "address": "8GV6+VP4, rue 30.137, Sanyiri, Ouagadougou, Burkina Faso",
+          "country_code": "BF",
+          "name": "Restaurant BONS-WEND MANEGRE"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.4811296,
+          12.3445803
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-03-05T16:35:27Z",
+        "google_maps_url": "http://maps.google.com/?cid=7094349019393081675",
+        "location": {
+          "address": "8GV9+QMX, Sanyiri, Ouagadougou, Burkina Faso",
+          "country_code": "BF",
+          "name": "Restaurant la GRANGE"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.4929959,
+          12.3455070
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-03-05T16:35:20Z",
+        "google_maps_url": "http://maps.google.com/?cid=18349179848310551893",
+        "location": {
+          "address": "Zone d´Activités Diverses, Ouagadougou, Burkina Faso",
+          "country_code": "BF",
+          "name": "P'TIT PARIS Zad"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.4926092,
+          12.3461799
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-03-05T16:35:16Z",
+        "google_maps_url": "http://maps.google.com/?cid=7070251145485477007",
+        "location": {
+          "address": "8GW4+FXC, Boulevard des Tensoba, Zone d´Activités Diverses, Ouagadougou, Burkina Faso",
+          "country_code": "BF",
+          "name": "Ma cocotte"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.4773838,
+          12.3417969
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-03-05T16:35:07Z",
+        "google_maps_url": "http://maps.google.com/?cid=1824940244781571299",
+        "location": {
+          "address": "01 Bp 599, Ouagadougou, Burkina Faso",
+          "country_code": "BF",
+          "name": "The Taste"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.4925534,
+          12.3413625
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-03-05T16:35:03Z",
+        "google_maps_url": "http://maps.google.com/?cid=2137769508929366358",
+        "location": {
+          "address": "8GR4+GXW, Sanyiri, Ouagadougou, Burkina Faso",
+          "country_code": "BF",
+          "name": "Jardin les bois de Karpala"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.4957843,
+          12.3471890
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-03-05T16:34:54Z",
+        "google_maps_url": "http://maps.google.com/?cid=13730302273165342872",
+        "location": {
+          "address": "rue 30.81, Zone d´Activités Diverses, Ouagadougou, Burkina Faso",
+          "country_code": "BF",
+          "name": "LE BISTROT"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.4772127,
+          12.3454623
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-03-05T16:34:46Z",
+        "google_maps_url": "http://maps.google.com/?cid=9924717718081282842",
+        "location": {
+          "address": "8GWF+54M, rue 30.162, Sanyiri, Ouagadougou, Burkina Faso",
+          "country_code": "BF",
+          "name": "Jardin Palmier Royal"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.4943137,
+          12.3482408
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-03-05T16:34:38Z",
+        "google_maps_url": "http://maps.google.com/?cid=4299343031515191759",
+        "location": {
+          "address": "Zone d´Activités Diverses, Ouagadougou, Burkina Faso",
+          "country_code": "BF",
+          "name": "Exotic Café Restaurant"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.4870806,
+          12.3532901
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-03-05T16:34:33Z",
+        "google_maps_url": "http://maps.google.com/?cid=3939023100905299189",
+        "location": {
+          "address": "Boulevard des Tensoba, Kalgondin, Ouagadougou, Burkina Faso",
+          "country_code": "BF",
+          "name": "Restaurant - Glacier EVAZION"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.4884330,
+          12.3507809
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-03-05T16:34:22Z",
+        "google_maps_url": "http://maps.google.com/?cid=11757292222631922565",
+        "location": {
+          "address": "9G26+8J8, Sanyiri, Ouagadougou, Burkina Faso",
+          "country_code": "BF",
+          "name": "Resto Ivoire"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          3.0062155,
+          36.7546627
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-02-27T19:54:26Z",
+        "google_maps_url": "http://maps.google.com/?cid=5682258819346733040",
+        "location": {
+          "address": "Q234+VF8, Ben Aknoun, Algérie",
+          "country_code": "DZ",
+          "name": "Restaurant Le Nil"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          3.0099707,
+          36.7554640
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-02-27T19:54:18Z",
+        "google_maps_url": "http://maps.google.com/?cid=13779829941863433173",
+        "location": {
+          "address": "Q245+5XQ, Ben Aknoun, Algérie",
+          "country_code": "DZ",
+          "name": "Restaurant Spécialité Sardines"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.9919148,
+          36.7510701
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-02-27T19:54:06Z",
+        "google_maps_url": "http://maps.google.com/?cid=2538220097227843827",
+        "location": {
+          "address": "QX2R+CQF, Dély Ibrahim 16000, Algérie",
+          "country_code": "DZ",
+          "name": "Özaltun restaurant turc"
+        }
+      },
+      "type": "Feature"
+    }
+  ]
+}

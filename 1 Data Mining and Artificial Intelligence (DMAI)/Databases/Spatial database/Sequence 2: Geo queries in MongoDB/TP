@@ -1,0 +1,22 @@
+Les requêtes géo dans Mongo
+Quelques questions de révisions
+Q1 : Quel est l’intervalle de valeurs pour les longitudes ?
+
+Q2 : Quel est l’intervalle de valeurs pour les latitudes ?
+
+Q3 : Dans Mongo, en considérant les coordonnées (-1.53388, 12.36566), quel est la latitude, quel est la longitude dans ces coordonnées ?
+
+Q4 : Le point donné en Q3, est-il au nord ou au sud du point (0, 0) ? Est-il à l’est ou à l’ouest du point (0, 0) ?
+ 
+Q5 : On peut exprimer les coordonnées en degrés décimaux ou en degrés minutes secondes. La conversion fonctionne comme pour les heures. Par exemple, 2,5 heures = 2 heures 30 minutes. Convertir les coordonnées données en Q3 en degrés minutes secondes.
+
+Insertion de points dans mongo
+En partant d’une collection vide que nous nommerons « geoJSONtp2 » dans la base de donnée « uvbf », insérer les 4 points suivants :
+
+(-1, -1), supermarché
+(5, 0), hôpital
+(0, -5), bureau 
+(0.5, 3), bar
+Rajouter l’index 2dsphere. A quoi sert-il?
+
+Afficher les points par ordre croissant des distances par rapport à (0, 0)

@@ -1,0 +1,1239 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          -3.1679771,
+          10.3231322
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-03-20T03:01:24Z",
+        "google_maps_url": "http://maps.google.com/?cid=12929455115962012021",
+        "location": {
+          "address": "63303443, Gaoua, Burkina Faso",
+          "country_code": "BF",
+          "name": "Salma saveurs"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -3.1679257,
+          10.3231036
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-03-20T03:01:21Z",
+        "google_maps_url": "http://maps.google.com/?cid=2445064171973913731",
+        "location": {
+          "address": "Bp13, Gaoua, Burkina Faso",
+          "country_code": "BF",
+          "name": "Sansan Célestin"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -3.1717554,
+          10.3362247
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-03-20T03:01:17Z",
+        "google_maps_url": "http://maps.google.com/?cid=17758672629632104777",
+        "location": {
+          "address": "8RPH+F7Q, Gaoua, Burkina Faso",
+          "country_code": "BF",
+          "name": "Paninis house"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -3.1752812,
+          10.3295987
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-03-20T03:01:13Z",
+        "google_maps_url": "http://maps.google.com/?cid=1774017633053819975",
+        "location": {
+          "address": "8RHF+RWR, Gaoua, Burkina Faso",
+          "country_code": "BF",
+          "name": "Fast-food"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -3.1790191,
+          10.3273664
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-03-20T02:55:12Z",
+        "google_maps_url": "http://maps.google.com/?cid=18030942898429114726",
+        "location": {
+          "address": "226, Gaoua, Burkina Faso",
+          "country_code": "BF",
+          "name": "La Référence de Gaoua"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.0331799,
+          14.0319137
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-03-20T02:54:49Z",
+        "google_maps_url": "http://maps.google.com/?cid=2790517535247643127",
+        "location": {
+          "address": "2XJ8+QP8, Dori, Burkina Faso",
+          "country_code": "BF",
+          "name": "Restaurant Hawaldiel"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.0193451,
+          14.0324541
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-03-20T02:54:42Z",
+        "google_maps_url": "http://maps.google.com/?cid=2810406633626424967",
+        "location": {
+          "address": "Dori, Burkina Faso",
+          "country_code": "BF",
+          "name": "Maquis Restaurant le transporteur ''fondokayo''"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.0280348,
+          14.0326843
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-03-20T02:54:29Z",
+        "google_maps_url": "http://maps.google.com/?cid=16805496369879706891",
+        "location": {
+          "address": "0000, Dori, Burkina Faso",
+          "country_code": "BF",
+          "name": "LAW-LAW FOOD"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.0244919,
+          14.0362428
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-03-20T02:54:25Z",
+        "google_maps_url": "http://maps.google.com/?cid=10219127909727784894",
+        "location": {
+          "address": "2XPG+F6R, Dori, Burkina Faso",
+          "country_code": "BF",
+          "name": "Le Regal"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.0136887,
+          14.0323343
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-03-20T02:54:21Z",
+        "google_maps_url": "http://maps.google.com/?cid=664119986111379340",
+        "location": {
+          "address": "2XJP+WGM, Dori, Burkina Faso",
+          "country_code": "BF",
+          "name": "Laiterie de Dori"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.2987349,
+          12.5840501
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-03-20T02:53:58Z",
+        "google_maps_url": "http://maps.google.com/?cid=9529819851180515677",
+        "location": {
+          "address": "HPM2+JGC, Ziniaré, Burkina Faso",
+          "country_code": "BF",
+          "name": "PAIN ANGLAIS NIK-SAD ZINIARÉ"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.2924327,
+          12.5935590
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-03-20T02:53:53Z",
+        "google_maps_url": "http://maps.google.com/?cid=15857633692227042181",
+        "location": {
+          "address": "HPV5+J2C, Ziniaré, Burkina Faso",
+          "country_code": "BF",
+          "name": "CAFÉ PANINIS RESTAU ZINIARÉ"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.2850947,
+          12.5894169
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-03-20T02:53:47Z",
+        "google_maps_url": "http://maps.google.com/?cid=13524436422946699668",
+        "location": {
+          "address": "HPQ7+QX6, Ziniaré, Burkina Faso",
+          "country_code": "BF",
+          "name": "Palais des Grillades de Ziniaré"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.2993488,
+          12.5927173
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-03-20T02:53:43Z",
+        "google_maps_url": "http://maps.google.com/?cid=11946674676403233437",
+        "location": {
+          "address": "HPV2+37J, Ziniaré, Burkina Faso",
+          "country_code": "BF",
+          "name": "Restaurant Béni Chez Tanti Choco"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.2812451,
+          12.5922143
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-03-20T02:53:29Z",
+        "google_maps_url": "http://maps.google.com/?cid=9772061519807002006",
+        "location": {
+          "address": "9629, Ziniaré, Burkina Faso",
+          "country_code": "BF",
+          "name": "Pharmacie cheick amadou"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.4114330,
+          13.5582157
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-03-20T02:51:58Z",
+        "google_maps_url": "http://maps.google.com/?cid=337994178090732314",
+        "location": {
+          "address": "HH5Q+7CP, Ouahigouya, Burkina Faso",
+          "country_code": "BF",
+          "name": "RESTAURANT La Galerie des Saveurs"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.4126764,
+          13.5724486
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-03-20T02:51:44Z",
+        "google_maps_url": "http://maps.google.com/?cid=3994191251849955863",
+        "location": {
+          "address": "HHCP+XWG, Ouahigouya, Burkina Faso",
+          "country_code": "BF",
+          "name": "Kadiami"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.4274027,
+          13.5738985
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-03-20T02:51:21Z",
+        "google_maps_url": "http://maps.google.com/?cid=1651831308492201869",
+        "location": {
+          "address": "HHFF+H25, Ouahigouya, Burkina Faso",
+          "country_code": "BF",
+          "name": "Restaurant Kiosque yassia"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.4109908,
+          13.5668258
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-03-20T02:51:09Z",
+        "google_maps_url": "http://maps.google.com/?cid=231479490822322240",
+        "location": {
+          "address": "Secteur numero 11 en face de la nouvelle Gare routière côté ouest, Ouahigouya, Burkina Faso",
+          "country_code": "BF",
+          "name": "Pharmacie Nayolsba"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.4255266,
+          13.5823178
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-03-20T02:51:05Z",
+        "google_maps_url": "http://maps.google.com/?cid=10847597239482987120",
+        "location": {
+          "address": "Ouahigouya, Burkina Faso",
+          "country_code": "BF",
+          "name": "Pharmacie Du Nord"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -4.3032768,
+          11.1716396
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-03-20T02:50:38Z",
+        "google_maps_url": "http://maps.google.com/?cid=6147305006336512668",
+        "location": {
+          "address": "5MCW+MM5, Av. Faidherbe, Sikasso Sira, Bobo-Dioulasso, Burkina Faso",
+          "country_code": "BF",
+          "name": "Bon appétit"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -4.2985982,
+          11.1736106
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-03-20T02:50:34Z",
+        "google_maps_url": "http://maps.google.com/?cid=14870413817106801820",
+        "location": {
+          "address": "5PF2+CHR, Rue Delafosse, Bobo-Dioulasso, Burkina Faso",
+          "country_code": "BF",
+          "name": "L'Eau Vive"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -4.2989521,
+          11.1731768
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-03-20T02:50:29Z",
+        "google_maps_url": "http://maps.google.com/?cid=11108853878027216495",
+        "location": {
+          "address": "5PF2+7CF, Rue Pepin Malherbe, Bobo-Dioulasso, Burkina Faso",
+          "country_code": "BF",
+          "name": "Restaurant DanKan"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -4.3008124,
+          11.1709014
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-03-20T02:50:15Z",
+        "google_maps_url": "http://maps.google.com/?cid=4119047798551134987",
+        "location": {
+          "address": "5MCX+9M8, Rue Diakite, Sikasso Sira, Bobo-Dioulasso, Burkina Faso",
+          "country_code": "BF",
+          "name": "Pharmacie Sala"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -4.2973705,
+          11.1690407
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-03-20T02:50:04Z",
+        "google_maps_url": "http://maps.google.com/?cid=9717715002428746117",
+        "location": {
+          "address": "5P93+J39, Ave Louveau, Bobo-Dioulasso, Burkina Faso",
+          "country_code": "BF",
+          "name": "Musée communal Sogossira Sanou"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0.3687302,
+          12.0625440
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-03-20T02:49:34Z",
+        "google_maps_url": "http://maps.google.com/?cid=14666231903465937154",
+        "location": {
+          "address": "BP 01, Fada-Ngourma, Burkina Faso",
+          "country_code": "BF",
+          "name": "Le lunch du Gourma"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0.3912097,
+          12.0561715
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-03-20T02:49:26Z",
+        "google_maps_url": "http://maps.google.com/?cid=5224025746194734687",
+        "location": {
+          "address": "394R+FF2, Fada-Ngourma, Burkina Faso",
+          "country_code": "BF",
+          "name": "ATCHEKEDROME La GRÂCE"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0.3465135,
+          12.0694299
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-03-20T02:49:22Z",
+        "google_maps_url": "http://maps.google.com/?cid=16776662989517814717",
+        "location": {
+          "address": "N4, Fada-Ngourma, Burkina Faso",
+          "country_code": "BF",
+          "name": "La Paillote"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0.3731202,
+          12.0601892
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-03-20T02:49:14Z",
+        "google_maps_url": "http://maps.google.com/?cid=5924658524151178031",
+        "location": {
+          "address": "396F+36H, N6, Fada-Ngourma, Burkina Faso",
+          "country_code": "BF",
+          "name": "Restaurant La Grace"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0.3597064,
+          12.0613864
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-03-20T02:49:10Z",
+        "google_maps_url": "http://maps.google.com/?cid=558914782015878282",
+        "location": {
+          "address": "Marché de Fada, N4, Fada-Ngourma, Burkina Faso",
+          "country_code": "BF",
+          "name": "Restaurant La Couronne"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.0737597,
+          11.6655858
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-03-20T02:48:38Z",
+        "google_maps_url": "http://maps.google.com/?cid=205421254587602563",
+        "location": {
+          "address": "MW7G+MFF, Manga, Burkina Faso",
+          "country_code": "BF",
+          "name": "Maquis Resto de l'amitié"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.0830690,
+          11.6748924
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-03-20T02:48:31Z",
+        "google_maps_url": "http://maps.google.com/?cid=7495847880691490745",
+        "location": {
+          "address": "Burkina Faso, Manga, Secteur 3",
+          "country_code": "BF",
+          "name": "Café Firdawsé"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.0926929,
+          11.6838788
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-03-20T02:48:24Z",
+        "google_maps_url": "http://maps.google.com/?cid=5015761648441634521",
+        "location": {
+          "address": "N17, Burkina Faso",
+          "country_code": "BF",
+          "name": "Wendy'S"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.0737822,
+          11.6628846
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-03-20T02:48:07Z",
+        "google_maps_url": "http://maps.google.com/?cid=13929769447669825579",
+        "location": {
+          "address": "MW7G+5F4, Manga, Burkina Faso",
+          "country_code": "BF",
+          "name": "Restaurant Nabonswende"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.0720716,
+          11.6643325
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-03-20T02:48:02Z",
+        "google_maps_url": "http://maps.google.com/?cid=14554126719384323199",
+        "location": {
+          "address": "Manga, Burkina Faso",
+          "country_code": "BF",
+          "name": "Restaurant Paradis des Jeunes"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.3742070,
+          12.2514430
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-03-20T02:47:29Z",
+        "google_maps_url": "http://maps.google.com/?cid=7736133927309368750",
+        "location": {
+          "address": "Koudougou, Burkina Faso",
+          "country_code": "BF",
+          "name": "Poulet Flambé Neb-Nooma"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.3630175,
+          12.2434597
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-03-20T02:47:20Z",
+        "google_maps_url": "http://maps.google.com/?cid=12428552828230040344",
+        "location": {
+          "address": "BP 313, Koudougou, Burkina Faso",
+          "country_code": "BF",
+          "name": "Pharmacie Sainte Philomène de Koudougou"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.3565487,
+          12.2528892
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-03-20T02:47:13Z",
+        "google_maps_url": "http://maps.google.com/?cid=17059502382760755044",
+        "location": {
+          "address": "25440908, Koudougou, Burkina Faso",
+          "country_code": "BF",
+          "name": "Pharmacie Habib"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.3830168,
+          12.2540836
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-03-20T02:47:09Z",
+        "google_maps_url": "http://maps.google.com/?cid=13645475004813904677",
+        "location": {
+          "address": "BP 189, Koudougou, Burkina Faso",
+          "country_code": "BF",
+          "name": "PHARMACIE GALYS"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.3743049,
+          12.2509770
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-03-20T02:47:04Z",
+        "google_maps_url": "http://maps.google.com/?cid=13318390716126230350",
+        "location": {
+          "address": "7J2G+97W, Rte de Dedougou, Koudougou, Burkina Faso",
+          "country_code": "BF",
+          "name": "Pharmacie Kuilg-noonré"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.1121172,
+          13.1132402
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-03-20T02:46:42Z",
+        "google_maps_url": "http://maps.google.com/?cid=203629879028517238",
+        "location": {
+          "address": "route kongoussi, Kaya secteur N° 7, Burkina Faso",
+          "country_code": "BF",
+          "name": "Restaurant sig-n-vuus( Kaya sectN°7)"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.0870650,
+          13.0688623
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-03-20T02:46:34Z",
+        "google_maps_url": "http://maps.google.com/?cid=7811040091233102828",
+        "location": {
+          "address": "3W97+G5M, Kaya, Burkina Faso",
+          "country_code": "BF",
+          "name": "Café Restos La Famille"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.0568023,
+          13.0967280
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-03-20T02:46:27Z",
+        "google_maps_url": "http://maps.google.com/?cid=88206308293271263",
+        "location": {
+          "address": "+22671831136, Kaya, Burkina Faso",
+          "country_code": "BF",
+          "name": "Café-resto chez GOURMA"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.0653988,
+          13.0845354
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-03-20T02:46:17Z",
+        "google_maps_url": "http://maps.google.com/?cid=6122463098643410280",
+        "location": {
+          "address": "3WMM+RR9, Kaya, Burkina Faso",
+          "country_code": "BF",
+          "name": "Rayimi-Sonmdé"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.0873712,
+          13.0664266
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-03-20T02:45:59Z",
+        "google_maps_url": "http://maps.google.com/?cid=6391455704303172481",
+        "location": {
+          "address": "3W87+H3C, Unnamed Road, Kaya, Burkina Faso",
+          "country_code": "BF",
+          "name": "Resto Noog-Naaba"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.3654204,
+          11.7863324
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-03-20T02:45:27Z",
+        "google_maps_url": "http://maps.google.com/?cid=6478318566216329792",
+        "location": {
+          "address": "01, Tenkodogo, Burkina Faso",
+          "country_code": "BF",
+          "name": "Restaurant Yasooma"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.3707347,
+          11.7901685
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-03-20T02:45:16Z",
+        "google_maps_url": "http://maps.google.com/?cid=3055516784448492467",
+        "location": {
+          "address": "Tenkodogo secteur 6 Secteur 6, Tenkodogo, Burkina Faso",
+          "country_code": "BF",
+          "name": "Anas panini’s"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.3764713,
+          11.7871606
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-03-20T02:45:03Z",
+        "google_maps_url": "http://maps.google.com/?cid=15878813732709956088",
+        "location": {
+          "address": "QJPF+VC6, Unnamed Road, Tenkodogo, Burkina Faso",
+          "country_code": "BF",
+          "name": "MAGNIFIQUE SERVICE"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.3806705,
+          11.7897684
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-03-20T02:44:56Z",
+        "google_maps_url": "http://maps.google.com/?cid=6689562609507814025",
+        "location": {
+          "address": "Unnamed Road, Tenkodogo, Burkina Faso",
+          "country_code": "BF",
+          "name": "Welly Restaurant"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.3690132,
+          11.7860890
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-03-20T02:44:36Z",
+        "google_maps_url": "http://maps.google.com/?cid=313454674679807024",
+        "location": {
+          "address": "Tenkodogo, Burkina Faso",
+          "country_code": "BF",
+          "name": "Pharmacie TIBO"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.5106353,
+          12.3738262
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-03-20T02:44:12Z",
+        "google_maps_url": "http://maps.google.com/?cid=10622648772982311939",
+        "location": {
+          "address": "Télévision Nationale du Burkina, Koulouba, Ouagadougou, Burkina Faso",
+          "country_code": "BF",
+          "name": "Restaurant rtb"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.5477563,
+          12.3504421
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-03-20T02:44:03Z",
+        "google_maps_url": "http://maps.google.com/?cid=7027283832844834513",
+        "location": {
+          "address": "Unnamed Road, Ouagadougou, Burkina Faso",
+          "country_code": "BF",
+          "name": "Restaurant La Verveine"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.5065921,
+          12.3821996
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-03-20T02:43:49Z",
+        "google_maps_url": "http://maps.google.com/?cid=13913701264825172110",
+        "location": {
+          "address": "9FJV+V9F, Avenue du Capitaine Thomas Sankara, Ouagadougou, Burkina Faso",
+          "country_code": "BF",
+          "name": "Pharmacie de l'Hôpital"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.4698935,
+          12.3668790
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-03-20T02:43:35Z",
+        "google_maps_url": "http://maps.google.com/?cid=2379075672845141924",
+        "location": {
+          "address": "9G8H+XF2, Zone I, Ouagadougou, Burkina Faso",
+          "country_code": "BF",
+          "name": "Pharmacie Zone 1"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.4729382,
+          12.3764764
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-03-20T02:43:16Z",
+        "google_maps_url": "http://maps.google.com/?cid=7233962548989650426",
+        "location": {
+          "address": "Avenue Charles-de-Gaulle, Dassasgo, Ouagadougou, Burkina Faso",
+          "country_code": "BF",
+          "name": "Musée National du Burkina Faso"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -4.7467375,
+          10.6413052
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-03-20T02:42:24Z",
+        "google_maps_url": "http://maps.google.com/?cid=5650195603641925691",
+        "location": {
+          "address": "J7R3+G8C, Unnamed Road, Banfora, Burkina Faso",
+          "country_code": "BF",
+          "name": "CAVE A VIN DON ARIELLE"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -4.7587389,
+          10.6449623
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-03-20T02:42:17Z",
+        "google_maps_url": "http://maps.google.com/?cid=1957857037421461584",
+        "location": {
+          "address": "J6VR+XGJ, Banfora, Burkina Faso",
+          "country_code": "BF",
+          "name": "Restaurant Yankadi"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -4.7602397,
+          10.6345693
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-03-20T02:42:00Z",
+        "google_maps_url": "http://maps.google.com/?cid=9880862360440005876",
+        "location": {
+          "address": "J6MQ+RWC, Banfora, Burkina Faso",
+          "country_code": "BF",
+          "name": "Restaurant Calypso"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -4.7459127,
+          10.6401588
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-03-20T02:41:38Z",
+        "google_maps_url": "http://maps.google.com/?cid=12425895600173569505",
+        "location": {
+          "address": "J7R3+3J8, Unnamed Road, Banfora, Burkina Faso",
+          "country_code": "BF",
+          "name": "Pharmacie CHARCLAM"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -4.7557944,
+          10.6378634
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-03-20T02:41:33Z",
+        "google_maps_url": "http://maps.google.com/?cid=6018788724935540707",
+        "location": {
+          "address": "J6QV+4MW, Banfora, Burkina Faso",
+          "country_code": "BF",
+          "name": "Pharmacie Comoé"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -3.4498844,
+          12.4722034
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-03-20T02:40:40Z",
+        "google_maps_url": "http://maps.google.com/?cid=4984214624697853964",
+        "location": {
+          "address": "FHC2+V2Q, Dédougou, Burkina Faso",
+          "country_code": "BF",
+          "name": "H-tag"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -3.4566006,
+          12.4718111
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-03-20T02:39:39Z",
+        "google_maps_url": "http://maps.google.com/?cid=2450683074991956074",
+        "location": {
+          "address": "FGCV+P9C, N10, Dédougou, Burkina Faso",
+          "country_code": "BF",
+          "name": "MAQUIS MILLENIUM"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -3.4451825,
+          12.4468936
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-03-20T02:39:26Z",
+        "google_maps_url": "http://maps.google.com/?cid=3726567160365541716",
+        "location": {
+          "address": "CHW3+QW4, N14, Dédougou, Burkina Faso",
+          "country_code": "BF",
+          "name": "RESTAURANT BADEYA"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -3.4661458,
+          12.4680454
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-03-20T02:38:58Z",
+        "google_maps_url": "http://maps.google.com/?cid=14121513408065680447",
+        "location": {
+          "address": "FG9M+6G9, Unnamed Road, Dédougou, Burkina Faso",
+          "country_code": "BF",
+          "name": "Maquis Oasis De Dedougou"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -3.4622405234507796,
+          12.464993214363009
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-03-20T02:37:36Z",
+        "google_maps_url": "https://maps.app.goo.gl/vxcT6PZUp67Z7gix8",
+        "location": {
+          "address": "FG7Q+G8J, Dédougou, Burkina Faso",
+          "name": "Restaurant LANAYA"
+        }
+      },
+      "type": "Feature"
+    }
+  ]
+}

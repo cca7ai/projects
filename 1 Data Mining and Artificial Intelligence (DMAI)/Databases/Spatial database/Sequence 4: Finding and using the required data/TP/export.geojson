@@ -1,0 +1,103 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2025-03-06T11:48:30Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5194266472",
+        "amenity": "restaurant",
+        "cuisine": "local food",
+        "email": "souleyimbiss@gmail.com",
+        "name": "Imbiss Café Reseau 2 Ouidi",
+        "opening_hours": "Mo-Sa 06:00-22:00",
+        "phone": "+226 76 32 25 85; +226 70 95 93 95",
+        "website": "https://imbiss-ouidi.business.site/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5355237,
+          12.3780985
+        ]
+      },
+      "id": "node/5194266472"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6609146985",
+        "addr:postcode": "226",
+        "addr:street": "Rue 11.52",
+        "amenity": "restaurant",
+        "name": "IMBISS CAFÉ RESTAU",
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "phone": "70959395",
+        "website": "http://Imbiss-restau.business.site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5354856,
+          12.3781254
+        ]
+      },
+      "id": "node/6609146985"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7264529428",
+        "amenity": "restaurant",
+        "description": "Restaurant-bar",
+        "microbrewery": "yes",
+        "name": "La traverne",
+        "survey:date": "2020-february"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5250222,
+          12.3834549
+        ]
+      },
+      "id": "node/7264529428"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7265932187",
+        "amenity": "restaurant",
+        "microbrewery": "yes",
+        "name": "Espace Saakda viim",
+        "survey:date": "2020-february"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5320577,
+          12.3767088
+        ]
+      },
+      "id": "node/7265932187"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10879341605",
+        "amenity": "restaurant",
+        "name": "Paillote Continental"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5312643,
+          12.3916267
+        ]
+      },
+      "id": "node/10879341605"
+    }
+  ]
+}

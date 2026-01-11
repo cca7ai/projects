@@ -1,0 +1,2845 @@
+[
+    {
+        "nom": "Salma saveurs",
+        "type": "restaurant",
+        "horaires": [
+            {
+                "jour": "Lundi",
+                "heures": "06:30-00:00"
+            },
+            {
+                "jour": "Mardi",
+                "heures": "06:30-00:00"
+            },
+            {
+                "jour": "Mercredi",
+                "heures": "06:30-00:00"
+            },
+            {
+                "jour": "Jeudi",
+                "heures": "06:30-00:00"
+            },
+            {
+                "jour": "Vendredi",
+                "heures": "06:30-00:00"
+            },
+            {
+                "jour": "Samedi",
+                "heures": "06:30-00:00"
+            },
+            {
+                "jour": "Dimanche",
+                "heures": "06:30-00:00"
+            }
+        ],
+        "source": "Gmaps",
+        "geometry": {
+            "coordinates": [
+                -3.1679771,
+                10.3231322
+            ],
+            "type": "Point"
+        },
+        "ville": "Gaoua"
+    },
+    {
+        "nom": "Sansan Célestin",
+        "type": "restaurant",
+        "horaires": [
+            {
+                "jour": "Lundi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Mardi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Mercredi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Jeudi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Vendredi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Samedi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Dimanche",
+                "heures": "00:00-00:00"
+            }
+        ],
+        "source": "Gmaps",
+        "geometry": {
+            "coordinates": [
+                -3.1679257,
+                10.3231036
+            ],
+            "type": "Point"
+        },
+        "ville": "Gaoua"
+    },
+    {
+        "nom": "Paninis house",
+        "type": "restaurant",
+        "horaires": [
+            {
+                "jour": "Lundi",
+                "heures": "07:00-00:00"
+            },
+            {
+                "jour": "Mardi",
+                "heures": "07:00-00:00"
+            },
+            {
+                "jour": "Mercredi",
+                "heures": "07:00-00:00"
+            },
+            {
+                "jour": "Jeudi",
+                "heures": "07:00-00:00"
+            },
+            {
+                "jour": "Vendredi",
+                "heures": "07:00-00:00"
+            },
+            {
+                "jour": "Samedi",
+                "heures": "07:00-00:00"
+            },
+            {
+                "jour": "Dimanche",
+                "heures": "07:00-00:00"
+            }
+        ],
+        "source": "Gmaps",
+        "geometry": {
+            "coordinates": [
+                -3.1717554,
+                10.3362247
+            ],
+            "type": "Point"
+        },
+        "ville": "Gaoua"
+    },
+    {
+        "nom": "Fast-food",
+        "type": "restaurant",
+        "horaires": [
+            {
+                "jour": "Lundi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Mardi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Mercredi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Jeudi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Vendredi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Samedi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Dimanche",
+                "heures": "00:00-00:00"
+            }
+        ],
+        "source": "Gmaps",
+        "geometry": {
+            "coordinates": [
+                -3.1752812,
+                10.3295987
+            ],
+            "type": "Point"
+        },
+        "ville": "Gaoua"
+    },
+    {
+        "nom": "La Référence de Gaoua",
+        "type": "restaurant",
+        "horaires": [
+            {
+                "jour": "Lundi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Mardi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Mercredi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Jeudi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Vendredi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Samedi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Dimanche",
+                "heures": "00:00-00:00"
+            }
+        ],
+        "source": "Gmaps",
+        "geometry": {
+            "coordinates": [
+                -3.1790191,
+                10.3273664
+            ],
+            "type": "Point"
+        },
+        "ville": "Gaoua"
+    },
+    {
+        "nom": "Restaurant Hawaldiel",
+        "type": "restaurant",
+        "horaires": [
+            {
+                "jour": "Lundi",
+                "heures": "07:00-23:00"
+            },
+            {
+                "jour": "Mardi",
+                "heures": "07:00-23:00"
+            },
+            {
+                "jour": "Mercredi",
+                "heures": "07:00-23:00"
+            },
+            {
+                "jour": "Jeudi",
+                "heures": "07:00-23:00"
+            },
+            {
+                "jour": "Vendredi",
+                "heures": "07:00-23:00"
+            },
+            {
+                "jour": "Samedi",
+                "heures": "07:00-23:00"
+            },
+            {
+                "jour": "Dimanche",
+                "heures": "Fermé"
+            }
+        ],
+        "source": "Gmaps",
+        "geometry": {
+            "coordinates": [
+                -0.0331799,
+                14.0319137
+            ],
+            "type": "Point"
+        },
+        "ville": "Dori"
+    },
+    {
+        "nom": "Maquis Restaurant le transporteur ''fondokayo''",
+        "type": "restaurant",
+        "horaires": [
+            {
+                "jour": "Lundi",
+                "heures": "07:00-22:30"
+            },
+            {
+                "jour": "Mardi",
+                "heures": "07:00-22:30"
+            },
+            {
+                "jour": "Mercredi",
+                "heures": "07:00-22:30"
+            },
+            {
+                "jour": "Jeudi",
+                "heures": "07:00-22:30"
+            },
+            {
+                "jour": "Vendredi",
+                "heures": "07:00-22:30"
+            },
+            {
+                "jour": "Samedi",
+                "heures": "07:00-22:30"
+            },
+            {
+                "jour": "Dimanche",
+                "heures": "07:00-22:30"
+            }
+        ],
+        "source": "Gmaps",
+        "geometry": {
+            "coordinates": [
+                -0.0193451,
+                14.0324541
+            ],
+            "type": "Point"
+        },
+        "ville": "Dori"
+    },
+    {
+        "nom": "LAW-LAW FOOD",
+        "type": "restaurant",
+        "horaires": [
+            {
+                "jour": "Lundi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Mardi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Mercredi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Jeudi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Vendredi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Samedi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Dimanche",
+                "heures": "00:00-00:00"
+            }
+        ],
+        "source": "Gmaps",
+        "geometry": {
+            "coordinates": [
+                -0.0280348,
+                14.0326843
+            ],
+            "type": "Point"
+        },
+        "ville": "Dori"
+    },
+    {
+        "nom": "Le Regal",
+        "type": "restaurant",
+        "horaires": [
+            {
+                "jour": "Lundi",
+                "heures": "06:30-22:00"
+            },
+            {
+                "jour": "Mardi",
+                "heures": "06:30-22:00"
+            },
+            {
+                "jour": "Mercredi",
+                "heures": "06:30-22:00"
+            },
+            {
+                "jour": "Jeudi",
+                "heures": "06:30-22:00"
+            },
+            {
+                "jour": "Vendredi",
+                "heures": "06:30-22:00"
+            },
+            {
+                "jour": "Samedi",
+                "heures": "06:30-22:00"
+            },
+            {
+                "jour": "Dimanche",
+                "heures": "06:30-22:00"
+            }
+        ],
+        "source": "Gmaps",
+        "geometry": {
+            "coordinates": [
+                -0.0244919,
+                14.0362428
+            ],
+            "type": "Point"
+        },
+        "ville": "Dori"
+    },
+    {
+        "nom": "Laiterie de Dori",
+        "type": "restaurant",
+        "horaires": [
+            {
+                "jour": "Lundi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Mardi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Mercredi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Jeudi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Vendredi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Samedi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Dimanche",
+                "heures": "00:00-00:00"
+            }
+        ],
+        "source": "Gmaps",
+        "geometry": {
+            "coordinates": [
+                -0.0136887,
+                14.0323343
+            ],
+            "type": "Point"
+        },
+        "ville": "Dori"
+    },
+    {
+        "nom": "PAIN ANGLAIS NIK-SAD ZINIARÉ",
+        "type": "restaurant",
+        "horaires": [
+            {
+                "jour": "Lundi",
+                "heures": "17:00-02:00"
+            },
+            {
+                "jour": "Mardi",
+                "heures": "17:00-02:00"
+            },
+            {
+                "jour": "Mercredi",
+                "heures": "17:00-02:00"
+            },
+            {
+                "jour": "Jeudi",
+                "heures": "17:00-02:00"
+            },
+            {
+                "jour": "Vendredi",
+                "heures": "17:00-02:00"
+            },
+            {
+                "jour": "Samedi",
+                "heures": "17:00-02:00"
+            },
+            {
+                "jour": "Dimanche",
+                "heures": "17:00-02:00"
+            }
+        ],
+        "source": "Gmaps",
+        "geometry": {
+            "coordinates": [
+                -1.2987349,
+                12.5840501
+            ],
+            "type": "Point"
+        },
+        "ville": "Ziniaré"
+    },
+    {
+        "nom": "CAFÉ PANINIS RESTAU ZINIARÉ",
+        "type": "restaurant",
+        "horaires": [
+            {
+                "jour": "Lundi",
+                "heures": "06:00-18:00"
+            },
+            {
+                "jour": "Mardi",
+                "heures": "06:00-18:00"
+            },
+            {
+                "jour": "Mercredi",
+                "heures": "06:00-18:00"
+            },
+            {
+                "jour": "Jeudi",
+                "heures": "06:00-18:00"
+            },
+            {
+                "jour": "Vendredi",
+                "heures": "06:00-18:00"
+            },
+            {
+                "jour": "Samedi",
+                "heures": "06:00-18:00"
+            },
+            {
+                "jour": "Dimanche",
+                "heures": "Fermé"
+            }
+        ],
+        "source": "Gmaps",
+        "geometry": {
+            "coordinates": [
+                -1.2924327,
+                12.593559
+            ],
+            "type": "Point"
+        },
+        "ville": "Ziniaré"
+    },
+    {
+        "nom": "Palais des Grillades de Ziniaré",
+        "type": "restaurant",
+        "horaires": [
+            {
+                "jour": "Lundi",
+                "heures": "06:00-22:00"
+            },
+            {
+                "jour": "Mardi",
+                "heures": "06:00-22:00"
+            },
+            {
+                "jour": "Mercredi",
+                "heures": "06:00-22:00"
+            },
+            {
+                "jour": "Jeudi",
+                "heures": "06:00-22:00"
+            },
+            {
+                "jour": "Vendredi",
+                "heures": "06:00-22:00"
+            },
+            {
+                "jour": "Samedi",
+                "heures": "06:00-22:00"
+            },
+            {
+                "jour": "Dimanche",
+                "heures": "06:00-22:00"
+            }
+        ],
+        "source": "Gmaps",
+        "geometry": {
+            "coordinates": [
+                -1.2850947,
+                12.5894169
+            ],
+            "type": "Point"
+        },
+        "ville": "Ziniaré"
+    },
+    {
+        "nom": "Restaurant Béni Chez Tanti Choco",
+        "type": "restaurant",
+        "horaires": [
+            {
+                "jour": "Lundi",
+                "heures": "05:30-23:00"
+            },
+            {
+                "jour": "Mardi",
+                "heures": "05:30-23:00"
+            },
+            {
+                "jour": "Mercredi",
+                "heures": "05:30-23:00"
+            },
+            {
+                "jour": "Jeudi",
+                "heures": "05:30-23:00"
+            },
+            {
+                "jour": "Vendredi",
+                "heures": "05:30-23:00"
+            },
+            {
+                "jour": "Samedi",
+                "heures": "05:30-23:00"
+            },
+            {
+                "jour": "Dimanche",
+                "heures": "Fermé"
+            }
+        ],
+        "source": "Gmaps",
+        "geometry": {
+            "coordinates": [
+                -1.2993488,
+                12.5927173
+            ],
+            "type": "Point"
+        },
+        "ville": "Ziniaré"
+    },
+    {
+        "nom": "Pharmacie cheick amadou",
+        "type": "pharmacie",
+        "horaires": [
+            {
+                "jour": "Lundi",
+                "heures": "08:00-20:00"
+            },
+            {
+                "jour": "Mardi",
+                "heures": "08:00-20:00"
+            },
+            {
+                "jour": "Mercredi",
+                "heures": "08:00-20:00"
+            },
+            {
+                "jour": "Jeudi",
+                "heures": "08:00-20:00"
+            },
+            {
+                "jour": "Vendredi",
+                "heures": "08:00-20:00"
+            },
+            {
+                "jour": "Samedi",
+                "heures": "08:00-20:00"
+            },
+            {
+                "jour": "Dimanche",
+                "heures": "Fermé"
+            }
+        ],
+        "source": "Gmaps",
+        "geometry": {
+            "coordinates": [
+                -1.2812451,
+                12.5922143
+            ],
+            "type": "Point"
+        },
+        "ville": "Ziniaré"
+    },
+    {
+        "nom": "RESTAURANT La Galerie des Saveurs",
+        "type": "restaurant",
+        "horaires": [
+            {
+                "jour": "Lundi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Mardi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Mercredi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Jeudi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Vendredi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Samedi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Dimanche",
+                "heures": "00:00-00:00"
+            }
+        ],
+        "source": "Gmaps",
+        "geometry": {
+            "coordinates": [
+                -2.411433,
+                13.5582157
+            ],
+            "type": "Point"
+        },
+        "ville": "Ouahigouya"
+    },
+    {
+        "nom": "Kadiami",
+        "type": "restaurant",
+        "horaires": [
+            {
+                "jour": "Lundi",
+                "heures": "06:00-22:00"
+            },
+            {
+                "jour": "Mardi",
+                "heures": "06:00-22:00"
+            },
+            {
+                "jour": "Mercredi",
+                "heures": "06:00-22:00"
+            },
+            {
+                "jour": "Jeudi",
+                "heures": "06:00-22:00"
+            },
+            {
+                "jour": "Vendredi",
+                "heures": "06:00-22:00"
+            },
+            {
+                "jour": "Samedi",
+                "heures": "06:00-22:00"
+            },
+            {
+                "jour": "Dimanche",
+                "heures": "06:00-22:00"
+            }
+        ],
+        "source": "Gmaps",
+        "geometry": {
+            "coordinates": [
+                -2.4126764,
+                13.5724486
+            ],
+            "type": "Point"
+        },
+        "ville": "Ouahigouya"
+    },
+    {
+        "nom": "Restaurant Kiosque yassia",
+        "type": "restaurant",
+        "horaires": [
+            {
+                "jour": "Lundi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Mardi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Mercredi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Jeudi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Vendredi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Samedi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Dimanche",
+                "heures": "00:00-00:00"
+            }
+        ],
+        "source": "Gmaps",
+        "geometry": {
+            "coordinates": [
+                -2.4274027,
+                13.5738985
+            ],
+            "type": "Point"
+        },
+        "ville": "Ouahigouya"
+    },
+    {
+        "nom": "Pharmacie Nayolsba",
+        "type": "pharmacie",
+        "horaires": [
+            {
+                "jour": "Lundi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Mardi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Mercredi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Jeudi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Vendredi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Samedi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Dimanche",
+                "heures": "00:00-00:00"
+            }
+        ],
+        "source": "Gmaps",
+        "geometry": {
+            "coordinates": [
+                -2.4109908,
+                13.5668258
+            ],
+            "type": "Point"
+        },
+        "ville": "Ouahigouya"
+    },
+    {
+        "nom": "Pharmacie Du Nord",
+        "type": "pharmacie",
+        "horaires": [
+            {
+                "jour": "Lundi",
+                "heures": "08:00-19:00"
+            },
+            {
+                "jour": "Mardi",
+                "heures": "08:00-19:00"
+            },
+            {
+                "jour": "Mercredi",
+                "heures": "08:00-19:00"
+            },
+            {
+                "jour": "Jeudi",
+                "heures": "08:00-19:00"
+            },
+            {
+                "jour": "Vendredi",
+                "heures": "08:00-19:00"
+            },
+            {
+                "jour": "Samedi",
+                "heures": "08:00-19:00"
+            },
+            {
+                "jour": "Dimanche",
+                "heures": "Fermé"
+            }
+        ],
+        "source": "Gmaps",
+        "geometry": {
+            "coordinates": [
+                -2.4255266,
+                13.5823178
+            ],
+            "type": "Point"
+        },
+        "ville": "Ouahigouya"
+    },
+    {
+        "nom": "Bon appétit",
+        "type": "restaurant",
+        "horaires": [
+            {
+                "jour": "Lundi",
+                "heures": "06:00-03:00"
+            },
+            {
+                "jour": "Mardi",
+                "heures": "06:00-03:00"
+            },
+            {
+                "jour": "Mercredi",
+                "heures": "06:00-03:00"
+            },
+            {
+                "jour": "Jeudi",
+                "heures": "06:00-03:00"
+            },
+            {
+                "jour": "Vendredi",
+                "heures": "06:00-03:00"
+            },
+            {
+                "jour": "Samedi",
+                "heures": "06:00-03:00"
+            },
+            {
+                "jour": "Dimanche",
+                "heures": "06:00-03:00"
+            }
+        ],
+        "source": "Gmaps",
+        "geometry": {
+            "coordinates": [
+                -4.3032768,
+                11.1716396
+            ],
+            "type": "Point"
+        },
+        "ville": "Bobo-Dioulasso"
+    },
+    {
+        "nom": "L'Eau Vive",
+        "type": "restaurant",
+        "horaires": [
+            {
+                "jour": "Lundi",
+                "heures": "08:30-23:00"
+            },
+            {
+                "jour": "Mardi",
+                "heures": "08:30-23:00"
+            },
+            {
+                "jour": "Mercredi",
+                "heures": "08:30-23:00"
+            },
+            {
+                "jour": "Jeudi",
+                "heures": "08:30-23:00"
+            },
+            {
+                "jour": "Vendredi",
+                "heures": "08:30-23:00"
+            },
+            {
+                "jour": "Samedi",
+                "heures": "08:30-23:00"
+            },
+            {
+                "jour": "Dimanche",
+                "heures": "Fermé"
+            }
+        ],
+        "source": "Gmaps",
+        "geometry": {
+            "coordinates": [
+                -4.2985982,
+                11.1736106
+            ],
+            "type": "Point"
+        },
+        "ville": "Bobo-Dioulasso"
+    },
+    {
+        "nom": "Restaurant DanKan",
+        "type": "restaurant",
+        "horaires": [
+            {
+                "jour": "Lundi",
+                "heures": "07:00-23:00"
+            },
+            {
+                "jour": "Mardi",
+                "heures": "07:00-23:00"
+            },
+            {
+                "jour": "Mercredi",
+                "heures": "07:00-23:00"
+            },
+            {
+                "jour": "Jeudi",
+                "heures": "07:00-23:00"
+            },
+            {
+                "jour": "Vendredi",
+                "heures": "07:00-23:00"
+            },
+            {
+                "jour": "Samedi",
+                "heures": "07:00-23:00"
+            },
+            {
+                "jour": "Dimanche",
+                "heures": "07:00-23:00"
+            }
+        ],
+        "source": "Gmaps",
+        "geometry": {
+            "coordinates": [
+                -4.2989521,
+                11.1731768
+            ],
+            "type": "Point"
+        },
+        "ville": "Bobo-Dioulasso"
+    },
+    {
+        "nom": "Pharmacie Sala",
+        "type": "pharmacie",
+        "horaires": [
+            {
+                "jour": "Lundi",
+                "heures": "07:00-18:00"
+            },
+            {
+                "jour": "Mardi",
+                "heures": "07:00-18:00"
+            },
+            {
+                "jour": "Mercredi",
+                "heures": "07:00-18:00"
+            },
+            {
+                "jour": "Jeudi",
+                "heures": "07:00-18:00"
+            },
+            {
+                "jour": "Vendredi",
+                "heures": "07:00-18:00"
+            },
+            {
+                "jour": "Samedi",
+                "heures": "Fermé"
+            },
+            {
+                "jour": "Dimanche",
+                "heures": "Fermé"
+            }
+        ],
+        "source": "Gmaps",
+        "geometry": {
+            "coordinates": [
+                -4.3008124,
+                11.1709014
+            ],
+            "type": "Point"
+        },
+        "ville": "Bobo-Dioulasso"
+    },
+    {
+        "nom": "Musée communal Sogossira Sanou",
+        "type": "musée",
+        "horaires": [
+            {
+                "jour": "Lundi",
+                "heures": "08:00-16:00"
+            },
+            {
+                "jour": "Mardi",
+                "heures": "08:00-16:00"
+            },
+            {
+                "jour": "Mercredi",
+                "heures": "08:00-16:00"
+            },
+            {
+                "jour": "Jeudi",
+                "heures": "08:00-16:00"
+            },
+            {
+                "jour": "Vendredi",
+                "heures": "08:00-16:00"
+            },
+            {
+                "jour": "Samedi",
+                "heures": "08:00-16:00"
+            },
+            {
+                "jour": "Dimanche",
+                "heures": "09:00-13:00"
+            }
+        ],
+        "source": "Gmaps",
+        "geometry": {
+            "coordinates": [
+                -4.2973705,
+                11.1690407
+            ],
+            "type": "Point"
+        },
+        "ville": "Bobo-Dioulasso"
+    },
+    {
+        "nom": "Le lunch du Gourma",
+        "type": "restaurant",
+        "horaires": [
+            {
+                "jour": "Lundi",
+                "heures": "08:30-21:00"
+            },
+            {
+                "jour": "Mardi",
+                "heures": "08:30-21:00"
+            },
+            {
+                "jour": "Mercredi",
+                "heures": "08:30-21:00"
+            },
+            {
+                "jour": "Jeudi",
+                "heures": "08:30-21:00"
+            },
+            {
+                "jour": "Vendredi",
+                "heures": "08:30-21:00"
+            },
+            {
+                "jour": "Samedi",
+                "heures": "08:30-21:00"
+            },
+            {
+                "jour": "Dimanche",
+                "heures": "08:30-21:00"
+            }
+        ],
+        "source": "Gmaps",
+        "geometry": {
+            "coordinates": [
+                0.3687302,
+                12.062544
+            ],
+            "type": "Point"
+        },
+        "ville": "Fada-Ngourma"
+    },
+    {
+        "nom": "ATCHEKEDROME La GRÂCE",
+        "type": "restaurant",
+        "horaires": [
+            {
+                "jour": "Lundi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Mardi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Mercredi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Jeudi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Vendredi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Samedi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Dimanche",
+                "heures": "Fermé"
+            }
+        ],
+        "source": "Gmaps",
+        "geometry": {
+            "coordinates": [
+                0.3912097,
+                12.0561715
+            ],
+            "type": "Point"
+        },
+        "ville": "Fada-Ngourma"
+    },
+    {
+        "nom": "La Paillote",
+        "type": "restaurant",
+        "horaires": [
+            {
+                "jour": "Lundi",
+                "heures": "08:00-22:00"
+            },
+            {
+                "jour": "Mardi",
+                "heures": "08:00-22:00"
+            },
+            {
+                "jour": "Mercredi",
+                "heures": "08:00-22:00"
+            },
+            {
+                "jour": "Jeudi",
+                "heures": "08:00-22:00"
+            },
+            {
+                "jour": "Vendredi",
+                "heures": "08:00-22:00"
+            },
+            {
+                "jour": "Samedi",
+                "heures": "08:00-22:00"
+            },
+            {
+                "jour": "Dimanche",
+                "heures": "08:00-22:00"
+            }
+        ],
+        "source": "Gmaps",
+        "geometry": {
+            "coordinates": [
+                0.3465135,
+                12.0694299
+            ],
+            "type": "Point"
+        },
+        "ville": "Fada-Ngourma"
+    },
+    {
+        "nom": "Restaurant La Grace",
+        "type": "restaurant",
+        "horaires": [
+            {
+                "jour": "Lundi",
+                "heures": "08:00-22:00"
+            },
+            {
+                "jour": "Mardi",
+                "heures": "08:00-22:00"
+            },
+            {
+                "jour": "Mercredi",
+                "heures": "08:00-22:00"
+            },
+            {
+                "jour": "Jeudi",
+                "heures": "08:00-22:00"
+            },
+            {
+                "jour": "Vendredi",
+                "heures": "08:00-22:00"
+            },
+            {
+                "jour": "Samedi",
+                "heures": "08:00-22:00"
+            },
+            {
+                "jour": "Dimanche",
+                "heures": "08:00-22:00"
+            }
+        ],
+        "source": "Gmaps",
+        "geometry": {
+            "coordinates": [
+                0.3731202,
+                12.0601892
+            ],
+            "type": "Point"
+        },
+        "ville": "Fada-Ngourma"
+    },
+    {
+        "nom": "Restaurant La Couronne",
+        "type": "restaurant",
+        "horaires": [
+            {
+                "jour": "Lundi",
+                "heures": "08:00-22:00"
+            },
+            {
+                "jour": "Mardi",
+                "heures": "08:00-22:00"
+            },
+            {
+                "jour": "Mercredi",
+                "heures": "08:00-22:00"
+            },
+            {
+                "jour": "Jeudi",
+                "heures": "08:00-22:00"
+            },
+            {
+                "jour": "Vendredi",
+                "heures": "08:00-22:00"
+            },
+            {
+                "jour": "Samedi",
+                "heures": "08:00-22:00"
+            },
+            {
+                "jour": "Dimanche",
+                "heures": "08:00-22:00"
+            }
+        ],
+        "source": "Gmaps",
+        "geometry": {
+            "coordinates": [
+                0.3597064,
+                12.0613864
+            ],
+            "type": "Point"
+        },
+        "ville": "Fada-Ngourma"
+    },
+    {
+        "nom": "Maquis Resto de l'amitié",
+        "type": "restaurant",
+        "horaires": [
+            {
+                "jour": "Lundi",
+                "heures": "07:00-22:30"
+            },
+            {
+                "jour": "Mardi",
+                "heures": "07:00-22:30"
+            },
+            {
+                "jour": "Mercredi",
+                "heures": "07:00-22:30"
+            },
+            {
+                "jour": "Jeudi",
+                "heures": "07:00-22:30"
+            },
+            {
+                "jour": "Vendredi",
+                "heures": "07:00-22:30"
+            },
+            {
+                "jour": "Samedi",
+                "heures": "07:00-22:30"
+            },
+            {
+                "jour": "Dimanche",
+                "heures": "07:00-22:30"
+            }
+        ],
+        "source": "Gmaps",
+        "geometry": {
+            "coordinates": [
+                -1.0737597,
+                11.6655858
+            ],
+            "type": "Point"
+        },
+        "ville": "Manga"
+    },
+    {
+        "nom": "Café Firdawsé",
+        "type": "restaurant",
+        "horaires": [
+            {
+                "jour": "Lundi",
+                "heures": "07:30-21:00"
+            },
+            {
+                "jour": "Mardi",
+                "heures": "07:30-21:00"
+            },
+            {
+                "jour": "Mercredi",
+                "heures": "07:30-21:00"
+            },
+            {
+                "jour": "Jeudi",
+                "heures": "07:30-21:00"
+            },
+            {
+                "jour": "Vendredi",
+                "heures": "07:30-21:00"
+            },
+            {
+                "jour": "Samedi",
+                "heures": "07:30-21:00"
+            },
+            {
+                "jour": "Dimanche",
+                "heures": "07:30-21:00"
+            }
+        ],
+        "source": "Gmaps",
+        "geometry": {
+            "coordinates": [
+                -1.083069,
+                11.6748924
+            ],
+            "type": "Point"
+        },
+        "ville": "Manga"
+    },
+    {
+        "nom": "Wendy'S",
+        "type": "restaurant",
+        "horaires": [
+            {
+                "jour": "Lundi",
+                "heures": "06:00-22:00"
+            },
+            {
+                "jour": "Mardi",
+                "heures": "06:00-22:00"
+            },
+            {
+                "jour": "Mercredi",
+                "heures": "06:00-22:00"
+            },
+            {
+                "jour": "Jeudi",
+                "heures": "06:00-22:00"
+            },
+            {
+                "jour": "Vendredi",
+                "heures": "06:00-22:00"
+            },
+            {
+                "jour": "Samedi",
+                "heures": "06:00-22:00"
+            },
+            {
+                "jour": "Dimanche",
+                "heures": "06:00-22:00"
+            }
+        ],
+        "source": "Gmaps",
+        "geometry": {
+            "coordinates": [
+                -1.0926929,
+                11.6838788
+            ],
+            "type": "Point"
+        },
+        "ville": "Manga"
+    },
+    {
+        "nom": "Restaurant Nabonswende",
+        "type": "restaurant",
+        "horaires": [
+            {
+                "jour": "Lundi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Mardi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Mercredi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Jeudi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Vendredi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Samedi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Dimanche",
+                "heures": "00:00-00:00"
+            }
+        ],
+        "source": "Gmaps",
+        "geometry": {
+            "coordinates": [
+                -1.0737822,
+                11.6628846
+            ],
+            "type": "Point"
+        },
+        "ville": "Manga"
+    },
+    {
+        "nom": "Restaurant Paradis des Jeunes",
+        "type": "restaurant",
+        "horaires": [
+            {
+                "jour": "Lundi",
+                "heures": "07:00-23:00"
+            },
+            {
+                "jour": "Mardi",
+                "heures": "07:00-23:00"
+            },
+            {
+                "jour": "Mercredi",
+                "heures": "07:00-23:00"
+            },
+            {
+                "jour": "Jeudi",
+                "heures": "07:00-23:00"
+            },
+            {
+                "jour": "Vendredi",
+                "heures": "07:00-23:00"
+            },
+            {
+                "jour": "Samedi",
+                "heures": "07:00-23:00"
+            },
+            {
+                "jour": "Dimanche",
+                "heures": "07:00-23:00"
+            }
+        ],
+        "source": "Gmaps",
+        "geometry": {
+            "coordinates": [
+                -1.0720716,
+                11.6643325
+            ],
+            "type": "Point"
+        },
+        "ville": "Manga"
+    },
+    {
+        "nom": "Poulet Flambé Neb-Nooma",
+        "type": "restaurant",
+        "horaires": [
+            {
+                "jour": "Lundi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Mardi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Mercredi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Jeudi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Vendredi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Samedi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Dimanche",
+                "heures": "00:00-00:00"
+            }
+        ],
+        "source": "Gmaps",
+        "geometry": {
+            "coordinates": [
+                -2.374207,
+                12.251443
+            ],
+            "type": "Point"
+        },
+        "ville": "Koudougou"
+    },
+    {
+        "nom": "Pharmacie Sainte Philomène de Koudougou",
+        "type": "pharmacie",
+        "horaires": [
+            {
+                "jour": "Lundi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Mardi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Mercredi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Jeudi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Vendredi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Samedi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Dimanche",
+                "heures": "00:00-00:00"
+            }
+        ],
+        "source": "Gmaps",
+        "geometry": {
+            "coordinates": [
+                -2.3630175,
+                12.2434597
+            ],
+            "type": "Point"
+        },
+        "ville": "Koudougou"
+    },
+    {
+        "nom": "Pharmacie Habib",
+        "type": "pharmacie",
+        "horaires": [
+            {
+                "jour": "Lundi",
+                "heures": [
+                    "08:00–12:30",
+                    "16:00–19:00"
+                ]
+            },
+            {
+                "jour": "Mardi",
+                "heures": [
+                    "08:00–12:30",
+                    "16:00–19:00"
+                ]
+            },
+            {
+                "jour": "Mercredi",
+                "heures": [
+                    "08:00–12:30",
+                    "16:00–19:00"
+                ]
+            },
+            {
+                "jour": "Jeudi",
+                "heures": [
+                    "08:00–12:30",
+                    "16:00–19:00"
+                ]
+            },
+            {
+                "jour": "Vendredi",
+                "heures": [
+                    "08:00–12:30",
+                    "16:00–19:00"
+                ]
+            },
+            {
+                "jour": "Samedi",
+                "heures": "00:00–16:30"
+            },
+            {
+                "jour": "Dimanche",
+                "heures": "Fermé"
+            }
+        ],
+        "source": "Gmaps",
+        "geometry": {
+            "coordinates": [
+                -2.3565487,
+                12.2528892
+            ],
+            "type": "Point"
+        },
+        "ville": "Koudougou"
+    },
+    {
+        "nom": "PHARMACIE GALYS",
+        "type": "pharmacie",
+        "horaires": [
+            {
+                "jour": "Lundi",
+                "heures": [
+                    "08:00–12:30",
+                    "16:00–19:00"
+                ]
+            },
+            {
+                "jour": "Mardi",
+                "heures": [
+                    "08:00–12:30",
+                    "16:00–19:00"
+                ]
+            },
+            {
+                "jour": "Mercredi",
+                "heures": [
+                    "08:00–12:30",
+                    "16:00–19:00"
+                ]
+            },
+            {
+                "jour": "Jeudi",
+                "heures": [
+                    "08:00–12:30",
+                    "16:00–19:00"
+                ]
+            },
+            {
+                "jour": "Vendredi",
+                "heures": [
+                    "08:00–12:30",
+                    "16:00–19:00"
+                ]
+            },
+            {
+                "jour": "Samedi",
+                "heures": "00:00–16:30"
+            },
+            {
+                "jour": "Dimanche",
+                "heures": "Fermé"
+            }
+        ],
+        "source": "Gmaps",
+        "geometry": {
+            "coordinates": [
+                -2.3830168,
+                12.2540836
+            ],
+            "type": "Point"
+        },
+        "ville": "Koudougou"
+    },
+    {
+        "nom": "Pharmacie Kuilg-noonré",
+        "type": "pharmacie",
+        "horaires": [
+            {
+                "jour": "Lundi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Mardi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Mercredi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Jeudi",
+                "heures": "Fermé"
+            },
+            {
+                "jour": "Vendredi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Samedi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Dimanche",
+                "heures": "00:00-00:00"
+            }
+        ],
+        "source": "Gmaps",
+        "geometry": {
+            "coordinates": [
+                -2.3743049,
+                12.250977
+            ],
+            "type": "Point"
+        },
+        "ville": "Koudougou"
+    },
+    {
+        "nom": "Restaurant sig-n-vuus( Kaya sectN°7)",
+        "type": "restaurant",
+        "horaires": [
+            {
+                "jour": "Lundi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Mardi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Mercredi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Jeudi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Vendredi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Samedi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Dimanche",
+                "heures": "00:00-00:00"
+            }
+        ],
+        "source": "Gmaps",
+        "geometry": {
+            "coordinates": [
+                -1.1121172,
+                13.1132402
+            ],
+            "type": "Point"
+        },
+        "ville": "Kaya"
+    },
+    {
+        "nom": "Café Restos La Famille",
+        "type": "restaurant",
+        "horaires": [
+            {
+                "jour": "Lundi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Mardi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Mercredi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Jeudi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Vendredi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Samedi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Dimanche",
+                "heures": "00:00-00:00"
+            }
+        ],
+        "source": "Gmaps",
+        "geometry": {
+            "coordinates": [
+                -1.087065,
+                13.0688623
+            ],
+            "type": "Point"
+        },
+        "ville": "Kaya"
+    },
+    {
+        "nom": "Café-resto chez GOURMA",
+        "type": "restaurant",
+        "horaires": [
+            {
+                "jour": "Lundi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Mardi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Mercredi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Jeudi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Vendredi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Samedi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Dimanche",
+                "heures": "Fermé"
+            }
+        ],
+        "source": "Gmaps",
+        "geometry": {
+            "coordinates": [
+                -1.0568023,
+                13.096728
+            ],
+            "type": "Point"
+        },
+        "ville": "Kaya"
+    },
+    {
+        "nom": "Rayimi-Sonmdé",
+        "type": "restaurant",
+        "horaires": [
+            {
+                "jour": "Lundi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Mardi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Mercredi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Jeudi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Vendredi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Samedi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Dimanche",
+                "heures": "00:00-00:00"
+            }
+        ],
+        "source": "Gmaps",
+        "geometry": {
+            "coordinates": [
+                -1.0653988,
+                13.0845354
+            ],
+            "type": "Point"
+        },
+        "ville": "Kaya"
+    },
+    {
+        "nom": "Resto Noog-Naaba",
+        "type": "restaurant",
+        "horaires": [
+            {
+                "jour": "Lundi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Mardi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Mercredi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Jeudi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Vendredi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Samedi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Dimanche",
+                "heures": "00:00-00:00"
+            }
+        ],
+        "source": "Gmaps",
+        "geometry": {
+            "coordinates": [
+                -1.0873712,
+                13.0664266
+            ],
+            "type": "Point"
+        },
+        "ville": "Kaya"
+    },
+    {
+        "nom": "Restaurant Yasooma",
+        "type": "restaurant",
+        "horaires": [
+            {
+                "jour": "Lundi",
+                "heures": "07:00-23:00"
+            },
+            {
+                "jour": "Mardi",
+                "heures": "07:00-23:00"
+            },
+            {
+                "jour": "Mercredi",
+                "heures": "07:00-23:00"
+            },
+            {
+                "jour": "Jeudi",
+                "heures": "07:00-23:00"
+            },
+            {
+                "jour": "Vendredi",
+                "heures": "07:00-23:00"
+            },
+            {
+                "jour": "Samedi",
+                "heures": "07:00-23:00"
+            },
+            {
+                "jour": "Dimanche",
+                "heures": "07:00-23:00"
+            }
+        ],
+        "source": "Gmaps",
+        "geometry": {
+            "coordinates": [
+                -0.3654204,
+                11.7863324
+            ],
+            "type": "Point"
+        },
+        "ville": "Tenkodogo"
+    },
+    {
+        "nom": "Anas panini’s",
+        "type": "restaurant",
+        "horaires": [
+            {
+                "jour": "Lundi",
+                "heures": "16:00-00:00"
+            },
+            {
+                "jour": "Mardi",
+                "heures": "16:00-00:00"
+            },
+            {
+                "jour": "Mercredi",
+                "heures": "16:00-00:00"
+            },
+            {
+                "jour": "Jeudi",
+                "heures": "16:00-00:00"
+            },
+            {
+                "jour": "Vendredi",
+                "heures": "16:00-00:00"
+            },
+            {
+                "jour": "Samedi",
+                "heures": "16:00-00:00"
+            },
+            {
+                "jour": "Dimanche",
+                "heures": "16:00-00:00"
+            }
+        ],
+        "source": "Gmaps",
+        "geometry": {
+            "coordinates": [
+                -0.3707347,
+                11.7901685
+            ],
+            "type": "Point"
+        },
+        "ville": "Tenkodogo"
+    },
+    {
+        "nom": "MAGNIFIQUE SERVICE",
+        "type": "restaurant",
+        "horaires": [
+            {
+                "jour": "Lundi",
+                "heures": "07:00-21:00"
+            },
+            {
+                "jour": "Mardi",
+                "heures": "07:00-21:00"
+            },
+            {
+                "jour": "Mercredi",
+                "heures": "07:00-21:00"
+            },
+            {
+                "jour": "Jeudi",
+                "heures": "07:00-21:00"
+            },
+            {
+                "jour": "Vendredi",
+                "heures": "07:00-21:00"
+            },
+            {
+                "jour": "Samedi",
+                "heures": "07:00-21:00"
+            },
+            {
+                "jour": "Dimanche",
+                "heures": "07:00-21:00"
+            }
+        ],
+        "source": "Gmaps",
+        "geometry": {
+            "coordinates": [
+                -0.3764713,
+                11.7871606
+            ],
+            "type": "Point"
+        },
+        "ville": "Tenkodogo"
+    },
+    {
+        "nom": "Welly Restaurant",
+        "type": "restaurant",
+        "horaires": [
+            {
+                "jour": "Lundi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Mardi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Mercredi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Jeudi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Vendredi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Samedi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Dimanche",
+                "heures": "00:00-00:00"
+            }
+        ],
+        "source": "Gmaps",
+        "geometry": {
+            "coordinates": [
+                -0.3806705,
+                11.7897684
+            ],
+            "type": "Point"
+        },
+        "ville": "Tenkodogo"
+    },
+    {
+        "nom": "MAGNIFIQUE SERVICE",
+        "type": "pharmacie",
+        "horaires": [
+            {
+                "jour": "Lundi",
+                "heures": [
+                    "07:30–12:30",
+                    "15:30–20:00"
+                ]
+            },
+            {
+                "jour": "Mardi",
+                "heures": [
+                    "07:30–12:30",
+                    "15:30–20:00"
+                ]
+            },
+            {
+                "jour": "Mercredi",
+                "heures": [
+                    "07:30–12:30",
+                    "15:30–20:00"
+                ]
+            },
+            {
+                "jour": "Jeudi",
+                "heures": [
+                    "07:30–12:30",
+                    "15:30–20:00"
+                ]
+            },
+            {
+                "jour": "Vendredi",
+                "heures": [
+                    "07:30–12:30",
+                    "15:30–20:00"
+                ]
+            },
+            {
+                "jour": "Samedi",
+                "heures": [
+                    "07:30–12:30",
+                    "15:30–20:00"
+                ]
+            },
+            {
+                "jour": "Dimanche",
+                "heures": "Fermé"
+            }
+        ],
+        "source": "Gmaps",
+        "geometry": {
+            "coordinates": [
+                -0.3690132,
+                11.786089
+            ],
+            "type": "Point"
+        },
+        "ville": "Tenkodogo"
+    },
+    {
+        "nom": "Restaurant rtb",
+        "type": "restaurant",
+        "horaires": [
+            {
+                "jour": "Lundi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Mardi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Mercredi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Jeudi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Vendredi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Samedi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Dimanche",
+                "heures": "Fermé"
+            }
+        ],
+        "source": "Gmaps",
+        "geometry": {
+            "coordinates": [
+                -1.5106353,
+                12.3738262
+            ],
+            "type": "Point"
+        },
+        "ville": "Ouagadougou"
+    },
+    {
+        "nom": "Restaurant La Verveine",
+        "type": "restaurant",
+        "horaires": [
+            {
+                "jour": "Lundi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Mardi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Mercredi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Jeudi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Vendredi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Samedi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Dimanche",
+                "heures": "00:00-00:00"
+            }
+        ],
+        "source": "Gmaps",
+        "geometry": {
+            "coordinates": [
+                -1.5477563,
+                12.3504421
+            ],
+            "type": "Point"
+        },
+        "ville": "Ouagadougou"
+    },
+    {
+        "nom": "Pharmacie de l'Hôpital",
+        "type": "pharmacie",
+        "horaires": [
+            {
+                "jour": "Lundi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Mardi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Mercredi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Jeudi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Vendredi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Samedi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Dimanche",
+                "heures": "00:00-00:00"
+            }
+        ],
+        "source": "Gmaps",
+        "geometry": {
+            "coordinates": [
+                -1.5065921,
+                12.3821996
+            ],
+            "type": "Point"
+        },
+        "ville": "Ouagadougou"
+    },
+    {
+        "nom": "Pharmacie Zone 1",
+        "type": "pharmacie",
+        "horaires": [
+            {
+                "jour": "Lundi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Mardi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Mercredi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Jeudi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Vendredi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Samedi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Dimanche",
+                "heures": "00:00-00:00"
+            }
+        ],
+        "source": "Gmaps",
+        "geometry": {
+            "coordinates": [
+                -1.4698935,
+                12.366879
+            ],
+            "type": "Point"
+        },
+        "ville": "Ouagadougou"
+    },
+    {
+        "nom": "Musée National du Burkina Faso",
+        "type": "musée",
+        "horaires": [
+            {
+                "jour": "Lundi",
+                "heures": "Fermé"
+            },
+            {
+                "jour": "Mardi",
+                "heures": "09:00-18:00"
+            },
+            {
+                "jour": "Mercredi",
+                "heures": "09:00-18:00"
+            },
+            {
+                "jour": "Jeudi",
+                "heures": "09:00-18:00"
+            },
+            {
+                "jour": "Vendredi",
+                "heures": "09:00-18:00"
+            },
+            {
+                "jour": "Samedi",
+                "heures": "09:00-18:00"
+            },
+            {
+                "jour": "Dimanche",
+                "heures": "10:00-16:00"
+            }
+        ],
+        "source": "Gmaps",
+        "geometry": {
+            "coordinates": [
+                -1.4729382,
+                12.3764764
+            ],
+            "type": "Point"
+        },
+        "ville": "Ouagadougou"
+    },
+    {
+        "nom": "CAVE A VIN DON ARIELLE",
+        "type": "restaurant",
+        "horaires": [
+            {
+                "jour": "Lundi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Mardi",
+                "heures": "09:00-03:00"
+            },
+            {
+                "jour": "Mercredi",
+                "heures": "09:00-03:00"
+            },
+            {
+                "jour": "Jeudi",
+                "heures": "09:00-03:00"
+            },
+            {
+                "jour": "Vendredi",
+                "heures": "09:00-03:00"
+            },
+            {
+                "jour": "Samedi",
+                "heures": "09:00-03:00"
+            },
+            {
+                "jour": "Dimanche",
+                "heures": "09:00-03:00"
+            }
+        ],
+        "source": "Gmaps",
+        "geometry": {
+            "coordinates": [
+                -4.7467375,
+                10.6413052
+            ],
+            "type": "Point"
+        },
+        "ville": "Banfora"
+    },
+    {
+        "nom": "Restaurant Yankadi",
+        "type": "restaurant",
+        "horaires": [
+            {
+                "jour": "Lundi",
+                "heures": "08:00-22:00"
+            },
+            {
+                "jour": "Mardi",
+                "heures": "08:00-22:00"
+            },
+            {
+                "jour": "Mercredi",
+                "heures": "08:00-22:00"
+            },
+            {
+                "jour": "Jeudi",
+                "heures": "08:00-22:00"
+            },
+            {
+                "jour": "Vendredi",
+                "heures": "08:00-22:00"
+            },
+            {
+                "jour": "Samedi",
+                "heures": "08:00-22:00"
+            },
+            {
+                "jour": "Dimanche",
+                "heures": "08:00-22:00"
+            }
+        ],
+        "source": "Gmaps",
+        "geometry": {
+            "coordinates": [
+                -4.7587389,
+                10.6449623
+            ],
+            "type": "Point"
+        },
+        "ville": "Banfora"
+    },
+    {
+        "nom": "Restaurant Calypso",
+        "type": "restaurant",
+        "horaires": [
+            {
+                "jour": "Lundi",
+                "heures": "08:00-22:00"
+            },
+            {
+                "jour": "Mardi",
+                "heures": "08:00-22:00"
+            },
+            {
+                "jour": "Mercredi",
+                "heures": "08:00-22:00"
+            },
+            {
+                "jour": "Jeudi",
+                "heures": "08:00-22:00"
+            },
+            {
+                "jour": "Vendredi",
+                "heures": "08:00-22:00"
+            },
+            {
+                "jour": "Samedi",
+                "heures": "08:00-22:00"
+            },
+            {
+                "jour": "Dimanche",
+                "heures": "08:00-22:00"
+            }
+        ],
+        "source": "Gmaps",
+        "geometry": {
+            "coordinates": [
+                -4.7602397,
+                10.6345693
+            ],
+            "type": "Point"
+        },
+        "ville": "Banfora"
+    },
+    {
+        "nom": "Pharmacie CHARCLAM",
+        "type": "pharmacie",
+        "horaires": [
+            {
+                "jour": "Lundi",
+                "heures": "07:30-18:30"
+            },
+            {
+                "jour": "Mardi",
+                "heures": "07:30-18:30"
+            },
+            {
+                "jour": "Mercredi",
+                "heures": "07:30-18:30"
+            },
+            {
+                "jour": "Jeudi",
+                "heures": "07:30-18:30"
+            },
+            {
+                "jour": "Vendredi",
+                "heures": "07:30-18:30"
+            },
+            {
+                "jour": "Samedi",
+                "heures": "07:30-18:30"
+            },
+            {
+                "jour": "Dimanche",
+                "heures": "Fermé"
+            }
+        ],
+        "source": "Gmaps",
+        "geometry": {
+            "coordinates": [
+                -4.7459127,
+                10.6401588
+            ],
+            "type": "Point"
+        },
+        "ville": "Banfora"
+    },
+    {
+        "nom": "Pharmacie Comoé",
+        "type": "pharmacie",
+        "horaires": [
+            {
+                "jour": "Lundi",
+                "heures": "08:00-18:00"
+            },
+            {
+                "jour": "Mardi",
+                "heures": "08:00-18:00"
+            },
+            {
+                "jour": "Mercredi",
+                "heures": "08:00-18:00"
+            },
+            {
+                "jour": "Jeudi",
+                "heures": "08:00-18:00"
+            },
+            {
+                "jour": "Vendredi",
+                "heures": "08:00-18:00"
+            },
+            {
+                "jour": "Samedi",
+                "heures": "08:00-18:00"
+            },
+            {
+                "jour": "Dimanche",
+                "heures": "Fermé"
+            }
+        ],
+        "source": "Gmaps",
+        "geometry": {
+            "coordinates": [
+                -4.7557944,
+                10.6378634
+            ],
+            "type": "Point"
+        },
+        "ville": "Banfora"
+    },
+    {
+        "nom": "H-tag",
+        "type": "restaurant",
+        "horaires": [
+            {
+                "jour": "Lundi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Mardi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Mercredi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Jeudi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Vendredi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Samedi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Dimanche",
+                "heures": "00:00-00:00"
+            }
+        ],
+        "source": "Gmaps",
+        "geometry": {
+            "coordinates": [
+                -3.4498844,
+                12.4722034
+            ],
+            "type": "Point"
+        },
+        "ville": "Dédougou"
+    },
+    {
+        "nom": "MAQUIS MILLENIUM",
+        "type": "restaurant",
+        "horaires": [
+            {
+                "jour": "Lundi",
+                "heures": "08:00-03:00"
+            },
+            {
+                "jour": "Mardi",
+                "heures": "08:00-03:00"
+            },
+            {
+                "jour": "Mercredi",
+                "heures": "08:00-03:00"
+            },
+            {
+                "jour": "Jeudi",
+                "heures": "08:00-03:00"
+            },
+            {
+                "jour": "Vendredi",
+                "heures": "08:00-03:00"
+            },
+            {
+                "jour": "Samedi",
+                "heures": "08:00-03:00"
+            },
+            {
+                "jour": "Dimanche",
+                "heures": "08:00-00:00"
+            }
+        ],
+        "source": "Gmaps",
+        "geometry": {
+            "coordinates": [
+                -3.4566006,
+                12.4718111
+            ],
+            "type": "Point"
+        },
+        "ville": "Dédougou"
+    },
+    {
+        "nom": "RESTAURANT BADEYA",
+        "type": "restaurant",
+        "horaires": [
+            {
+                "jour": "Lundi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Mardi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Mercredi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Jeudi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Vendredi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Samedi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Dimanche",
+                "heures": "00:00-00:00"
+            }
+        ],
+        "source": "Gmaps",
+        "geometry": {
+            "coordinates": [
+                -3.4451825,
+                12.4468936
+            ],
+            "type": "Point"
+        },
+        "ville": "Dédougou"
+    },
+    {
+        "nom": "Maquis Oasis De Dedougou",
+        "type": "restaurant",
+        "horaires": [
+            {
+                "jour": "Lundi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Mardi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Mercredi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Jeudi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Vendredi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Samedi",
+                "heures": "00:00-00:00"
+            },
+            {
+                "jour": "Dimanche",
+                "heures": "00:00-00:00"
+            }
+        ],
+        "source": "Gmaps",
+        "geometry": {
+            "coordinates": [
+                -3.4661458,
+                12.4680454
+            ],
+            "type": "Point"
+        },
+        "ville": "Dédougou"
+    },
+    {
+        "nom": "Restaurant LANAYA",
+        "type": "restaurant",
+        "horaires": [
+            {
+                "jour": "Lundi",
+                "heures": "07:00-23:00"
+            },
+            {
+                "jour": "Mardi",
+                "heures": "07:00-23:00"
+            },
+            {
+                "jour": "Mercredi",
+                "heures": "07:00-23:00"
+            },
+            {
+                "jour": "Jeudi",
+                "heures": "07:00-23:00"
+            },
+            {
+                "jour": "Vendredi",
+                "heures": "07:00-23:00"
+            },
+            {
+                "jour": "Samedi",
+                "heures": "07:00-23:00"
+            },
+            {
+                "jour": "Dimanche",
+                "heures": "Fermé"
+            }
+        ],
+        "source": "Gmaps",
+        "geometry": {
+            "coordinates": [
+                -3.4622405,
+                12.4649932
+            ],
+            "type": "Point"
+        },
+        "ville": "Dédougou"
+    }
+]
