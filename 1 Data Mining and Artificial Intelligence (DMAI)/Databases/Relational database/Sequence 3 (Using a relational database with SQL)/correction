@@ -1,0 +1,48 @@
+EXERCICE 1
+
+a) SELECT nomActeur, prenomActeur FROM acteur;
+
+b) SELECT nomActeur, prenomActeur FROM acteur
+WHERE genreActeur = 'Femme';
+
+c) SELECT nomActeur, prenomActeur, (2023 - YEAR(dateNaissanceActeur)) as age FROM acteur ORDER BY age DESC LIMIT 3;
+SELECT nomActeur, prenomActeur, dateNaissanceActeur FROM acteur ORDER BY dateNaissanceActeur ASC LIMIT 3;
+
+
+d) SELECT nomActeur, prenomActeur FROM acteur WHERE dateDecesActeur IS NOT NULL;
+
+e) SELECT * FROM film WHERE budget = (SELECT MAX(budget) FROM film);
+
+f) SELECT dateDecesRealisateur FROM realisateur WHERE nomRealisateur = 'HEBIE' AND prenomRealisateur = 'Missa';
+
+g) SELECT (YEAR(dateDecesRealisateur) - YEAR(dateNaissanceRealisateur)) AS ageDeces FROM realisateur WHERE nomRealisateur = 'HEBIE' AND prenomRealisateur = 'Missa'; 
+SELECT DATEDIFF(dateDecesRealisateur,dateNaissanceRealisateur)/365 AS ageDeces FROM realisateur WHERE nomRealisateur = 'HEBIE' AND prenomRealisateur = 'Missa';
+
+h) SELECT DATEDIFF(dateDecesRealisateur,dateNaissanceRealisateur)/365 AS ageDeces FROM realisateur WHERE nomRealisateur = 'HEBIE' AND prenomRealisateur = 'Missa';
+
+i) SELECT nomRealisateur, prenomRealisateur FROM film INNER JOIN realisateur ON film.codeRealisateur = realisateur.codeRealisateur WHERE film.titre = "SIRA";
+
+j) SELECT nomRealisateur, prenomRealisateur FROM film INNER JOIN realisateur ON film.codeRealisateur = realisateur.codeRealisateur WHERE film.titre = "SIRA";
+
+EXERCICE 2
+
+a) SELECT nomActeur, prenomActeur FROM acteur INNER JOIN realisateur ON acteur.nomActeur = realisateur.nomRealisateur AND acteur.prenomActeur = realisateur.prenomRealisateur;
+SELECT nomActeur, prenomActeur FROM acteur WHERE CONCAT(nomActeur, prenomActeur) IN (SELECT CONCAT(nomRealisateur, prenomRealisateur) FROM realisateur);
+
+b) SELECT CONCAT( nomActeur, ' ', prenomActeur) As acteurName, COUNT(jouer.codeActeur) AS nbFilms FROM acteur
+INNER JOIN jouer ON acteur.codeActeur = jouer.codeActeur
+GROUP BY acteurName ORDER BY nbFilms DESC;
+
+c) SELECT realisateur.nomRealisateur, realisateur.prenomRealisateur FROM realisateur WHERE codeRealisateur IN (SELECT film.codeRealisateur FROM film WHERE budget = (SELECT MAX(budget) FROM film))
+
+
+d) SELECT DISTINCT nomFestival FROM festival INNER JOIN nominer ON festival.codeFestival = nominer.codeFestival;
+
+e)SELECT nomActeur, prenomActeur FROM acteur INNER JOIN jouer ON acteur.codeActeur=jouer.codeActeur INNER JOIN film ON film.codeFilm = jouer.codeFilm INNER JOIN realisateur ON film.codeRealisateur = realisateur.codeRealisateur WHERE realisateur.nomRealisateur = 'HEBIE' AND realisateur.prenomRealisateur = 'Missa';
+
+f) SELECT nomFestival FROM festival INNER JOIN nominer ON festival.codeFestival = nominer.codeFestival INNER JOIN film ON nominer.codeFilm = film.codeFilm WHERE film.titre='SIRA';
+
+g) SELECT nomFestival FROM festival INNER JOIN nominer ON festival.codeFestival = nominer.codeFestival INNER JOIN film ON nominer.codeFilm = film.codeFilm WHERE film.titre='SIRA';
+
+
+h) SELECT acteur.nomActeur, prenomActeur FROM acteur WHERE codeActeur IN ( SELECT acteur.codeActeur FROM acteur INNER JOIN jouer ON acteur.codeActeur = jouer.codeActeur INNER JOIN film ON film.codeFilm = jouer.codeFilm INNER JOIN realisateur ON film.codeRealisateur = realisateur.codeRealisateur WHERE realisateur.nomRealisateur='DIALLO' AND realisateur.prenomRealisateur='Boubakar') AND acteur.codeActeur IN (SELECT acteur.codeActeur FROM acteur INNER JOIN jouer ON acteur.codeActeur = jouer.codeActeur INNER JOIN film ON film.codeFilm = jouer.codeFilm INNER JOIN realisateur ON film.codeRealisateur = realisateur.codeRealisateur WHERE realisateur.nomRealisateur='HEBIE' AND realisateur.prenomRealisateur='Missa');

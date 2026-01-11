@@ -1,0 +1,50 @@
+-- Création de la base de données
+CREATE DATABASE IF NOT EXISTS football_db;
+USE football_db;
+
+-- Table Equipe
+CREATE TABLE Equipe (
+    equipe_id INT AUTO_INCREMENT PRIMARY KEY,
+    nom VARCHAR(255) NOT NULL UNIQUE
+);
+
+-- Table Match
+CREATE TABLE _Match_ (
+    match_id INT AUTO_INCREMENT PRIMARY KEY,
+    match_date DATE NOT NULL,
+    tournoi VARCHAR(255),
+    ville VARCHAR(255),
+    pays VARCHAR(255),
+    terrain_neutre BOOLEAN DEFAULT FALSE
+);
+
+-- Table Joueur
+CREATE TABLE Joueur (
+    joueur_id INT AUTO_INCREMENT PRIMARY KEY,
+    nom VARCHAR(255) NOT NULL,
+    equipe_id INT NOT NULL,
+    FOREIGN KEY (equipe_id) REFERENCES Equipe(equipe_id) ON DELETE CASCADE
+);
+
+-- Table participe (relation entre Match et Equipe)
+CREATE TABLE participe (
+    match_id INT NOT NULL,
+    equipe_id INT NOT NULL,
+    PRIMARY KEY (match_id, equipe_id),
+    FOREIGN KEY (match_id) REFERENCES _Match_(match_id) ON DELETE CASCADE,
+    FOREIGN KEY (equipe_id) REFERENCES Equipe(equipe_id) ON DELETE CASCADE
+);
+
+-- Table But
+CREATE TABLE But (
+    but_id INT AUTO_INCREMENT PRIMARY KEY,
+    but_minute INT NOT NULL,
+    csc BOOLEAN DEFAULT FALSE, -- But contre son camp
+    penalty BOOLEAN DEFAULT FALSE,
+    match_id INT NOT NULL,
+    joueur_id INT NOT NULL,
+    FOREIGN KEY (match_id) REFERENCES _Match_(match_id) ON DELETE CASCADE,
+    FOREIGN KEY (joueur_id) REFERENCES Joueur(joueur_id) ON DELETE CASCADE
+);
+
+

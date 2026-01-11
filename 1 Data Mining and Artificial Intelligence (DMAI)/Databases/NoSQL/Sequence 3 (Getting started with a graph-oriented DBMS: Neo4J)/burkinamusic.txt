@@ -1,0 +1,48 @@
+CREATE DATABASE burkinamusic
+:use burkinamusic
+CREATE (a:Artiste {nom:"Belemgnègré", prenom:"Florent", alias:"Floby", naissance:'08/05/1980', debut:2006});
+CREATE (b:Artiste {nom:"Kiekieta", prenom:"Salif Louis", alias:"Smarty", naissance:'31/12/1978', debut:2000});
+CREATE (c:Artiste {nom:"Mawndoe", prenom:"Célestin", alias:"Mawndowé", naissance:'11/01/1976', debut:2000});
+CREATE (d:Artiste {nom:"Serge", prenom:"Bambara", alias:"Smockey", naissance:'24/10/1971', debut:1999});
+CREATE (e:Artiste {nom:"Ouédraogo", prenom:"Salifou", alias:"Frère Malkhom", naissance:'08/06/1975', debut:2001});
+CREATE (f:Artiste {nom:"Malgoubri", prenom:"Harouna David", alias:"David le Combattant", naissance:'05/05/1976', debut:2002});
+CREATE (g:Artiste {nom:"Ouédraogo", prenom:"Désiré", alias:"Dez Altino", naissance:'20/09/1978', debut:2006});
+CREATE (h:Artiste {nom:"Ilboudo", prenom:"Emile", alias:"Imilo Lechanceux", naissance:'20/09/1988', debut:2009});
+CREATE (i:Artiste {nom:"Ouédraogo", prenom:"Souleymane", alias:"Basic Soul", naissance:'31/12/1971', debut:1997});
+CREATE (j:Artiste {nom:"Sawadogo", prenom:"Habibou", naissance:'31/12/1970', debut:2003});
+
+CREATE (g1:Groupe {nom:"Yeleen"});
+CREATE (g2:Groupe {nom:"Faso Kombat"});
+CREATE (g4:Groupe {nom:"Le Gouvernement"});
+
+CREATE (g1:Prix {nom:"Prix Découverte RFI"});
+CREATE (g2:Prix {nom:"Kundé d'Or"});
+CREATE (g4:Prix {nom:"Kora Awards"});
+
+
+MATCH (n:Artiste {nom:"Kiekieta", prenom:"Salif Louis"}), (g:Groupe {nom:"Yeleen"}) CREATE (n)-[m:MEMBRE]->(g);
+MATCH (n:Artiste {nom:"Mawndoe", prenom:"Célestin"}), (g:Groupe {nom:"Yeleen"}) CREATE (n)-[m:MEMBRE]->(g);
+
+MATCH (n:Artiste {alias:"David le Combattant"}), (g:Groupe {nom:"Faso Kombat"}) CREATE (n)-[m:MEMBRE]->(g);
+MATCH (n:Artiste {alias:"Frère Malkhom"}), (g:Groupe {nom:"Faso Kombat"}) CREATE (n)-[m:MEMBRE]->(g);
+
+MATCH (n:Artiste {alias:"David le Combattant"}), (g:Groupe {nom:"Le Gouvernement"}) CREATE (n)-[m:MEMBRE]->(g);
+MATCH (n:Artiste {alias:"Frère Malkhom"}), (g:Groupe {nom:"Le Gouvernement"}) CREATE (n)-[m:MEMBRE]->(g);
+MATCH (n:Artiste {alias:"Smockey"}), (g:Groupe {nom:"Le Gouvernement"}) CREATE (n)-[m:MEMBRE]->(g);
+MATCH (n:Artiste {alias:"Smarty"}), (g:Groupe {nom:"Le Gouvernement"}) CREATE (n)-[m:MEMBRE]->(g);
+MATCH (n:Artiste {alias:"Mawndowé"}), (g:Groupe {nom:"Le Gouvernement"}) CREATE (n)-[m:MEMBRE]->(g);
+
+
+MATCH (n:Artiste {nom:"Kiekieta", prenom:"Salif Louis"}), (p:Prix {nom:"Prix Découverte RFI"}) CREATE (n)-[m:LAUREAT {annee:2013}]->(p);
+
+MATCH (n:Artiste {alias:"Floby"}), (p:Prix {nom:"Kundé d'Or"}) CREATE (n)-[m:LAUREAT {annee:2010}]->(p);
+MATCH (n:Artiste {alias:"Floby"}), (p:Prix {nom:"Kundé d'Or"}) CREATE (n)-[m:LAUREAT {annee:2019}]->(p);
+MATCH (n:Artiste {alias:"Smarty"}), (p:Prix {nom:"Kundé d'Or"}) CREATE (n)-[m:LAUREAT {annee:2023}]->(p);
+MATCH (n:Artiste {alias:"Smockey"}), (p:Prix {nom:"Kundé d'Or"}) CREATE (n)-[m:LAUREAT {annee:2006}]->(p);
+MATCH (n:Artiste {alias:"Dez Altino"}), (p:Prix {nom:"Kundé d'Or"}) CREATE (n)-[m:LAUREAT {annee:2013}]->(p);
+MATCH (n:Artiste {alias:"Imilo Lechanceux"}), (p:Prix {nom:"Kundé d'Or"}) CREATE (n)-[m:LAUREAT {annee:2017}]->(p);
+MATCH (g:Groupe {nom:"Yeleen"}), (p:Prix {nom:"Kundé d'Or"}) CREATE (g)-[m:LAUREAT {annee:2007}]->(p);
+MATCH (g:Groupe {nom:"Faso Kombat"}), (p:Prix {nom:"Kundé d'Or"}) CREATE (g)-[m:LAUREAT {annee:2007}]->(p);
+
+MATCH (n:Artiste {alias:"Smockey"}), (p:Prix {nom:"Kora Awards"}) CREATE (g)-[m:LAUREAT {annee:2010}]->(p);
+MATCH (g:Groupe {nom:"Yeleen"}), (p:Prix {nom:"Kora Awards"}) CREATE (g)-[m:LAUREAT {annee:2002}]->(p);
