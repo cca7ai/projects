@@ -1,0 +1,31 @@
+## Analyse Exploratoire des Données des Jeux Olympiques (1896 - 2016)
+
+Ce projet consiste en une analyse exploratoire des Jeux Olympiques modernes, de leur réintroduction en 1896 jusqu'à 2016. L’objectif est de dégager des tendances clés telles que l'évolution du nombre de participants, la participation féminine, la répartition des médailles, ou encore les disciplines les plus représentées. Une attention particulière est portée à la participation du Burkina Faso.
+
+
+## Structure du projet
+
+projet_jo/
+├── code/
+│ ├── code.py # script principal de l'analyse
+│ ├── athlete_events.csv # données des participants olympiques
+│ └── noc_regions.csv # correspondance des codes NOC et des pays
+├── presentation/
+│ ├── presentation.ipynb # Notebook de présentation des résultats
+│ └── icons8-python.png et logo-uvbf.png # images générées pour l'analyse
+├── rapport.pdf # rapport rédigé en LaTeX
+└── README.md # Fichier d'information du projet
+
+
+## Instructions
+
+# 1. Exécution du code
+Le script principal est `code/code.py`. Il lit les fichiers CSV, effectue le nettoyage des données, produit les visualisations, et enregistre les résultats sous forme d’images.
+
+# 2. Visualisation des résultats
+Une présentation interactive a été réalisée dans le notebook `presentation/presentation.ipynb`. 
+Pour une meilleure expérience d'affichage (rendu des graphiques, compatibilité avec les bibliothèques), il est **recommandé d’ouvrir ce fichier avec Jupyter Notebook** ou un **IDE avancé comme PyCharm**. 
+L'affichage peut être moins optimal dans certains éditeurs comme VSCode sans extensions adéquates.
+
+# 3. Rapport
+Le rapport final au format PDF est disponible à la racine du projet (`rapport.pdf`).
