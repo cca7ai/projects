@@ -1,0 +1,13 @@
+Ref_Medicament,Libelle_Medicament,Type_Medicament
+M1,Paracétamol,Antalgique
+M2,Amoxicilline,Antibiotique
+M3,Oméprazole,Anti-ulcéreux
+M4,Sertraline,Antidépresseur
+M5,Ibuprofène,Anti-inflammatoire
+M6,Azithromycine,Antibiotique
+M7,Metformine,Antidiabétique
+M8,Amlodipine,Antihypertenseur
+M9,Atorvastatine,Hypolipémiant
+M10,Diazépam,Anxiolytique
+M11,Salbutamol,Bronchodilatateur
+M12,Ciprofloxacine,Antibiotique

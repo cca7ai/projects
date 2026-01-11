@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Dashboard - Clinique Médicale</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body class="dashboard">
+  <aside class="sidebar">
+    <div class="logo">
+      <img src="logo.png" alt="Logo">
+      <h2>Vision Clinique</h2>
+    </div>
+    <nav>
+      <ul>
+        <li><a href="index.html">🏠 Accueil</a></li>
+        <li><a href="#" id="show-report">📊 Voir les rapports du mois</a></li>
+      </ul>
+    </nav>
+  </aside>
+
+  <main class="content">
+    <h1>Rapport du Mois</h1>
+    <div id="report-container" class="report-container">
+      <!-- Affichage du Rapport -->
+    </div>
+  </main>
+
+  <script>
+    
+    document.getElementById("show-report").addEventListener("click", function(e){
+      e.preventDefault();
+      const container = document.getElementById("report-container");
+      container.innerHTML = `
+        <iframe title="vision_clinique" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=6e37e9f1-e8d0-4f94-9fa3-fb8d407977ae&autoAuth=true&ctid=74a7157f-576d-423d-933a-6959cf281a02" frameborder="0" allowFullScreen="true"></iframe>`;
+    });
+  </script>
+</body>
+</html>

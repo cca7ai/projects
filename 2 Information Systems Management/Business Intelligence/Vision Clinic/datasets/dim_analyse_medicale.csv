@@ -1,0 +1,5 @@
+Code_Analyse,Libelle_Analyse,Nature_Analyse,Val_Min,Val_Max
+A1,Glycémie,Biochimie,0.7,1.1
+A2,Cholestérol,Biochimie,1.5,2.0
+A3,IRM cérébrale,Imagerie,0,0
+A4,ECG,Cardiologie,0,0

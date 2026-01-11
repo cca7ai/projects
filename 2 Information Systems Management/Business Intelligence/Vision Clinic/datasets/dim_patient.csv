@@ -1,0 +1,13 @@
+Id_Patient,Nom_prenom,Date_Naissance,Sexe,Adresse,Groupage,Mobile,Ville,Region,Tranche_age
+1,Patient_1,1990-05-12,Homme,Rue Didouche Mourad,A+,0550123456,Alger,Nord,36-60
+2,Patient_2,1995-08-23,Femme,Rue Emir Abdelkader,O+,0550234567,Oran,l'ouest,19-35
+3,Patient_3,1988-03-17,Homme,Rue Larbi Ben M'hidi,B+,0550345678,Constantine,l'est,36-60
+4,Patient_4,1992-11-05,Femme,Avenue de la République,AB+,0550456789,Blida,Nord,36-60
+5,Patient_5,1985-01-30,Homme,Rue de l'Indépendance,O-,0550567890,Sétif,l'est,36-60
+6,Patient_6,1998-07-19,Femme,Rue des Martyrs,A-,0550678901,Alger,Nord,19-35
+7,Patient_7,1983-09-14,Homme,Rue Ahmed Zabana,B-,0550789012,Oran,l'ouest,36-60
+8,Patient_8,1996-12-02,Femme,Rue Salah Bey,AB-,0550890123,Constantine,l'est,19-35
+9,Patient_9,1991-04-27,Homme,Rue 1er Novembre,O+,0550901234,Blida,Nord,36-60
+10,Patient_10,1989-06-10,Femme,Rue El Qods,A+,0550112233,Sétif,l'est,36-60
+11,Patient_11,2011-06-10,Femme,Rue El Qods,A+,0550112234,Sétif,l'est,0-18
+12,Patient_12,1930-06-10,homme,Rue El Qods,A+,0550178234,Sétif,l'est,60+

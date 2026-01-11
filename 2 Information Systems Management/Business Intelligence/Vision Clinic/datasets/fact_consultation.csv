@@ -1,0 +1,15 @@
+Id_Consultation,temps_id,Id_Patient,Id_Medecin,Cout_Consultation,Diagnostic,Maladie
+1,1,1,1,2000,Hypertension,Tension artérielle
+2,2,2,2,2500,Gastrite,Maladie digestive
+3,3,3,3,3000,Migraine,Maladie neurologique
+4,4,4,5,4000,Dépression,Trouble mental
+5,5,5,1,2200,Angine,Maladie cardiaque
+6,6,6,2,2700,Reflux gastrique,Maladie digestive
+7,7,7,3,3200,Épilepsie,Maladie neurologique
+8,8,8,4,3500,Infection respiratoire,Grippe
+9,9,9,5,4200,Anxiété,Trouble psychologique
+10,10,10,1,2100,Contrôle cardiaque,Suivi médical
+11,11,3,2,2600,Colite,Maladie digestive
+12,12,4,3,3100,AVC léger,Maladie neurologique
+13,11,11,4,1800,Consultation pédiatrique,Suivi enfant
+14,12,12,6,5000,Bilan cardiaque,Gériatrie cardiaque

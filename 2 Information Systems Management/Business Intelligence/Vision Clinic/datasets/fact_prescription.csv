@@ -1,0 +1,9 @@
+Id_Prescription,temps_id,Ref_Medicament,Id_Medecin,Id_Patient,Quantite,Duree_Traitement
+1,1,M1,1,1,20,5
+2,2,M2,2,2,15,7
+3,3,M3,3,3,30,10
+4,3,M4,5,4,10,30
+5,4,M1,1,5,25,6
+6,5,M2,2,6,18,8
+7,5,M3,3,7,35,12
+8,6,M4,5,8,12,25
